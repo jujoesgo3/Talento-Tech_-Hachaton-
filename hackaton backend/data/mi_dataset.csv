@@ -1,0 +1,1075 @@
+id_cliente,presupuesto,tamaño_empresa,industria,frecuencia_compra,engagement,valor_historico,satisfaccion,categoria_cliente,dias_desde_ultima_compra,canal_preferido
+1665,200245877,Micro,Comercio,4,0.429,68243,1,Recurrente,16,Instagram
+1370,74304850,Micro,Tecnología,1,0.168,1978707,4,Nuevo,114,Instagram
+302,496151052,Pequeña,Tecnología,2,0.13,1542117,4,Recurrente,106,Instagram
+1015,208275402,Pequeña,Salud,1,0.5,1213009,2,Nuevo,104,WhatsApp
+374,75415631,Mediana,Comercio,1,0.33,689395,5,Nuevo,161,Instagram
+831,406109118,Mediana,Servicios Profesionales,1,0.327,2732897,5,Nuevo,14,WhatsApp
+1363,306049574,Pequeña,Salud,7,0.717,117703,4,Recurrente,55,WhatsApp
+457,144822123,Micro,Manufactura,1,0.774,1488241,5,Nuevo,2,WhatsApp
+132,455200279,Mediana,Manufactura,1,0.757,1298756,5,Nuevo,176,Instagram
+1888,105755193,Micro,Educación,4,0.742,260926,5,Recurrente,12,WhatsApp
+110,121982471,Mediana,Manufactura,1,0.96,1489977,2,Nuevo,39,Instagram
+582,117339789,Mediana,Comercio,1,0.22,2836989,3,Nuevo,39,WhatsApp
+796,187021198,Pequeña,Turismo,1,0.151,599634,1,Nuevo,131,WhatsApp
+1320,121518997,Pequeña,Turismo,1,0.427,1689922,4,Nuevo,130,WhatsApp
+1203,228667684,Pequeña,Tecnología,1,0.774,1426850,3,Nuevo,53,WhatsApp
+1949,462908494,Pequeña,Turismo,1,0.146,1635667,3,Nuevo,76,Llamada
+810,188609093,Micro,Servicios Profesionales,1,0.158,2194056,4,Nuevo,155,WhatsApp
+886,151016768,Micro,Construcción,1,0.036,980340,5,Nuevo,151,Instagram
+1221,473407315,Micro,Turismo,1,0.043,2257107,5,Nuevo,111,Instagram
+773,100440360,Mediana,Servicios Profesionales,1,0.052,330456,1,Nuevo,28,WhatsApp
+1125,184294115,Mediana,Tecnología,1,0.004,676880,5,Nuevo,53,WhatsApp
+937,53564353,Mediana,Tecnología,1,0.401,2454607,4,Nuevo,21,Llamada
+1207,448567746,Pequeña,Salud,7,0.909,1976750,3,Recurrente,101,Llamada
+1948,195024710,Micro,Construcción,1,0.531,2699527,1,Recurrente,41,Llamada
+879,441643568,Micro,Manufactura,5,0.481,2179343,1,Recurrente,80,Instagram
+413,260587637,Micro,Turismo,1,0.314,1386608,5,Nuevo,11,Instagram
+1958,9572786,Pequeña,Comercio,1,0.524,2340350,5,Nuevo,10,Instagram
+830,439113412,Micro,Servicios Profesionales,1,0.218,2249494,3,Nuevo,98,Instagram
+566,308696344,Micro,Comercio,1,0.218,1851952,2,Nuevo,48,WhatsApp
+104,241319038,Pequeña,Turismo,1,0.529,977445,1,Nuevo,95,Instagram
+945,219425005,Pequeña,Servicios Profesionales,2,0.278,2368293,3,Recurrente,35,Instagram
+1834,133692366,Pequeña,Manufactura,1,0.724,2810330,5,Nuevo,164,Instagram
+270,495485444,Micro,Comercio,2,0.365,2849703,1,Recurrente,23,WhatsApp
+801,266088404,Micro,Comercio,1,0.259,1890980,2,Nuevo,49,WhatsApp
+1142,498352628,Micro,Comercio,1,0.954,958478,1,Nuevo,84,Instagram
+1890,193021814,Pequeña,Educación,1,0.251,1475762,2,Nuevo,16,Instagram
+1116,349828374,Micro,Manufactura,1,0.847,393367,5,Nuevo,14,Instagram
+1005,78130633,Micro,Tecnología,1,0.596,2461197,3,Nuevo,142,Instagram
+1509,140071952,Micro,Turismo,1,0.84,849829,1,Nuevo,108,Web
+1111,117565432,Micro,Turismo,1,0.637,1041166,5,Nuevo,168,WhatsApp
+234,193050496,Pequeña,Construcción,1,0.114,515393,1,Nuevo,42,WhatsApp
+913,457014628,Micro,Comercio,1,0.055,1383509,4,Nuevo,85,WhatsApp
+1148,297185199,Micro,Construcción,1,0.981,1464323,1,Nuevo,168,Llamada
+1056,22443915,Pequeña,Tecnología,1,0.973,2847995,4,Nuevo,26,WhatsApp
+357,448055399,Pequeña,Servicios Profesionales,1,0.561,2836376,3,Nuevo,136,Llamada
+1487,436871153,Pequeña,Educación,6,0.185,97830,5,Recurrente,157,Instagram
+964,290865984,Pequeña,Salud,5,0.521,1237594,1,Recurrente,75,WhatsApp
+1575,111150035,Micro,Salud,7,0.027,464429,1,Recurrente,151,Web
+94,310939307,Mediana,Salud,4,0.978,420371,1,Recurrente,54,Llamada
+1546,130890206,Pequeña,Manufactura,1,0.388,2641318,2,Nuevo,107,WhatsApp
+1751,462365315,Micro,Tecnología,8,0.242,338766,5,Recurrente,132,WhatsApp
+1432,92215883,Pequeña,Turismo,4,0.51,1136445,5,Recurrente,128,Instagram
+1124,463407573,Pequeña,Turismo,1,0.549,2711440,3,Nuevo,140,Llamada
+244,479914429,Micro,Educación,5,0.474,1045262,3,Recurrente,152,WhatsApp
+58,435365184,Micro,Construcción,1,0.511,2271658,4,Nuevo,109,WhatsApp
+965,360452802,Micro,Tecnología,3,0.779,1623474,4,Recurrente,114,Instagram
+1381,397864372,Mediana,Manufactura,1,0.065,558237,3,Nuevo,142,Instagram
+1515,322533131,Micro,Tecnología,1,0.459,720659,5,Nuevo,125,Llamada
+320,42975541,Pequeña,Tecnología,1,0.075,2116128,2,Nuevo,59,WhatsApp
+1043,57034708,Micro,Educación,1,0.756,1248279,5,Nuevo,31,WhatsApp
+357,126191692,Micro,Servicios Profesionales,1,0.561,2836376,3,Nuevo,136,Llamada
+1863,472843060,Micro,Turismo,9,0.978,385314,4,Recurrente,177,Instagram
+296,104045841,Pequeña,Servicios Profesionales,6,0.806,869227,4,Recurrente,71,WhatsApp
+525,254012987,Pequeña,Comercio,5,0.832,2326961,1,Recurrente,42,Instagram
+1125,251645755,Pequeña,Construcción,1,0.004,676880,5,Nuevo,53,WhatsApp
+1179,99891909,Mediana,Manufactura,1,0.944,539454,5,Nuevo,67,Instagram
+1618,174262360,Grande,Turismo,7,0.257,2141271,5,Recurrente,23,WhatsApp
+1624,454699222,Micro,Salud,1,0.558,1172304,4,Nuevo,93,WhatsApp
+1129,127376023,Grande,Servicios Profesionales,1,0.255,242811,3,Nuevo,138,WhatsApp
+1666,190663076,Micro,Servicios Profesionales,1,0.227,2086677,2,Nuevo,60,WhatsApp
+1808,204527193,Pequeña,Educación,1,0.977,2788558,3,Nuevo,107,WhatsApp
+1550,449241253,Micro,Construcción,1,0.785,873509,4,Nuevo,25,Instagram
+401,340987696,Pequeña,Manufactura,1,0.59,1644928,3,Nuevo,51,WhatsApp
+1990,15143331,Pequeña,Turismo,1,0.764,293747,2,Nuevo,102,Instagram
+557,394494016,Grande,Tecnología,4,0.469,757852,3,Recurrente,114,Instagram
+550,127412125,Mediana,Manufactura,1,0.877,1667781,5,Nuevo,174,WhatsApp
+1148,172469379,Grande,Comercio,1,0.981,1464323,1,Nuevo,168,Llamada
+360,357399074,Mediana,Educación,1,0.982,1669177,3,Nuevo,94,WhatsApp
+64,179988649,Micro,Turismo,1,0.548,1945052,2,Nuevo,4,WhatsApp
+1913,193434069,Micro,Tecnología,1,0.174,504699,1,Nuevo,72,WhatsApp
+1980,493181376,Micro,Salud,10,0.486,1275328,5,Recurrente,79,Web
+102,72410834,Micro,Servicios Profesionales,1,0.242,2990322,3,Nuevo,131,WhatsApp
+561,56307037,Micro,Manufactura,1,0.762,1802362,5,Nuevo,86,WhatsApp
+1301,374380224,Micro,Turismo,1,0.509,238766,4,Nuevo,151,WhatsApp
+1251,412979311,Pequeña,Servicios Profesionales,2,0.045,442278,3,Recurrente,162,WhatsApp
+1047,128475730,Micro,Salud,1,0.216,2851497,3,Nuevo,55,WhatsApp
+844,184561086,Pequeña,Construcción,1,0.895,835072,3,Nuevo,16,WhatsApp
+1721,172539123,Mediana,Turismo,1,0.298,403126,5,Nuevo,99,WhatsApp
+1181,140873941,Micro,Salud,1,0.17,870007,4,Nuevo,149,Instagram
+1819,181941873,Mediana,Comercio,1,0.085,824079,4,Nuevo,43,Instagram
+839,335988479,Pequeña,Comercio,1,0.748,2271373,4,Nuevo,25,WhatsApp
+1488,427534362,Micro,Turismo,1,0.627,1132946,2,Nuevo,101,WhatsApp
+1221,55722977,Pequeña,Construcción,1,0.043,2257107,5,Nuevo,111,Instagram
+647,377760704,Micro,Salud,1,0.68,647539,5,Nuevo,126,Instagram
+35,159980655,Micro,Manufactura,1,0.186,482636,2,Nuevo,119,Llamada
+1423,340651732,Micro,Salud,1,0.447,1685543,1,Nuevo,118,Instagram
+220,16719841,Micro,Construcción,1,0.349,1917540,1,Nuevo,70,WhatsApp
+1922,64397017,Pequeña,Tecnología,1,0.974,1843555,1,Nuevo,108,Instagram
+1912,279879523,Mediana,Turismo,2,0.313,193128,2,Recurrente,62,Instagram
+1887,53271051,Pequeña,Salud,1,0.085,731066,3,Nuevo,106,Instagram
+416,406056683,Micro,Comercio,1,0.42,1607229,1,Nuevo,33,WhatsApp
+1480,443925971,Pequeña,Tecnología,1,0.084,2133703,5,Nuevo,136,WhatsApp
+938,461336361,Micro,Turismo,1,0.192,1456101,1,Nuevo,77,Instagram
+1355,140581372,Micro,Salud,1,0.266,2555426,3,Nuevo,20,WhatsApp
+1007,468444691,Micro,Comercio,1,0.813,2378476,1,Nuevo,131,Llamada
+680,133817971,Pequeña,Turismo,1,0.802,601719,5,Nuevo,73,Llamada
+1363,300495242,Micro,Servicios Profesionales,7,0.717,117703,4,Recurrente,55,WhatsApp
+748,59912603,Pequeña,Manufactura,1,0.693,2721075,1,Nuevo,22,Llamada
+1784,413063895,Pequeña,Turismo,1,0.789,1340879,5,Nuevo,9,Instagram
+1701,440102799,Micro,Manufactura,3,0.198,2472480,4,Recurrente,34,WhatsApp
+312,65045711,Micro,Turismo,10,0.992,2791026,4,Recurrente,89,WhatsApp
+1767,60423105,Pequeña,Manufactura,2,0.285,2031853,5,Recurrente,118,WhatsApp
+55,16471832,Pequeña,Salud,8,0.846,1357729,5,Recurrente,2,Instagram
+1819,422632063,Pequeña,Comercio,1,0.085,824079,4,Nuevo,43,Instagram
+105,449981276,Micro,Comercio,6,0.928,157966,5,Recurrente,109,Instagram
+1199,156498715,Mediana,Comercio,1,0.462,1474558,5,Nuevo,130,WhatsApp
+294,278380553,Micro,Servicios Profesionales,1,0.311,693341,3,Nuevo,147,WhatsApp
+880,264417324,Pequeña,Salud,6,0.68,2730928,3,Recurrente,86,Instagram
+450,473841810,Micro,Turismo,1,0.656,2656242,3,Nuevo,92,Instagram
+1469,104833230,Micro,Turismo,6,0.476,510287,1,Recurrente,115,Instagram
+1084,495270134,Micro,Educación,1,0.344,2497100,4,Nuevo,72,WhatsApp
+1416,159978592,Pequeña,Construcción,1,0.198,737246,2,Recurrente,145,WhatsApp
+812,50124859,Micro,Construcción,1,0.662,832884,1,Nuevo,87,WhatsApp
+1236,313252232,Pequeña,Educación,8,0.938,1338900,4,Recurrente,130,Instagram
+667,9370853,Pequeña,Construcción,1,0.06,2025975,1,Nuevo,147,WhatsApp
+1709,255747522,Pequeña,Comercio,1,0.423,2274392,1,Nuevo,129,WhatsApp
+1559,226086389,Pequeña,Tecnología,1,0.28,2962965,2,Nuevo,166,WhatsApp
+1264,489201153,Micro,Servicios Profesionales,1,0.319,1627077,5,Nuevo,67,WhatsApp
+1512,224127825,Pequeña,Construcción,5,0.037,1069198,4,Recurrente,105,Instagram
+1146,125015570,Pequeña,Manufactura,1,0.177,1580520,4,Nuevo,46,Instagram
+1277,434455778,Micro,Tecnología,1,0.419,1409871,1,Nuevo,164,WhatsApp
+1476,297534779,Grande,Salud,1,0.899,2663681,1,Nuevo,147,WhatsApp
+1876,172841905,Grande,Servicios Profesionales,1,0.406,1378143,5,Nuevo,108,WhatsApp
+874,139306643,Pequeña,Comercio,1,0.468,1153091,2,Nuevo,164,Instagram
+1177,68325779,Micro,Manufactura,4,0.654,2779085,2,Recurrente,18,WhatsApp
+1750,492827304,Micro,Turismo,8,0.449,174939,4,Recurrente,37,WhatsApp
+1332,422424335,Micro,Construcción,3,0.827,235128,4,Recurrente,92,WhatsApp
+1584,184829349,Micro,Manufactura,1,0.781,1443737,3,Nuevo,72,WhatsApp
+1320,191131947,Mediana,Comercio,1,0.427,1689922,4,Nuevo,130,WhatsApp
+843,391555707,Micro,Turismo,1,0.187,2462008,1,Nuevo,30,WhatsApp
+1369,343740325,Mediana,Servicios Profesionales,1,0.862,563795,2,Nuevo,11,Instagram
+1605,200912172,Micro,Comercio,1,0.93,2085334,3,Nuevo,127,WhatsApp
+952,453482268,Grande,Educación,1,0.877,1254707,3,Nuevo,88,Instagram
+552,451679518,Micro,Tecnología,9,0.015,589989,3,Recurrente,14,Llamada
+1120,200115884,Pequeña,Turismo,5,0.582,1626446,4,Recurrente,151,Llamada
+1476,127763251,Micro,Salud,1,0.899,2663681,1,Nuevo,147,WhatsApp
+373,48315339,Micro,Manufactura,1,0.707,2812807,2,Nuevo,65,Llamada
+1097,260925428,Pequeña,Servicios Profesionales,1,0.868,1412061,3,Nuevo,150,WhatsApp
+333,481986756,Pequeña,Turismo,1,0.212,1953843,2,Nuevo,140,Instagram
+393,130373711,Grande,Comercio,1,0.47,2142317,4,Nuevo,156,Llamada
+1734,174985818,Mediana,Comercio,5,0.661,493445,4,Recurrente,2,WhatsApp
+1883,490008515,Micro,Comercio,1,0.281,593864,2,Nuevo,72,WhatsApp
+1130,234073711,Micro,Educación,1,0.305,1617938,1,Nuevo,41,WhatsApp
+1125,421896903,Pequeña,Tecnología,1,0.004,676880,5,Nuevo,53,WhatsApp
+1383,113832255,Pequeña,Comercio,1,0.235,419531,2,Nuevo,3,Instagram
+1771,95548909,Micro,Construcción,1,0.026,253154,5,Nuevo,75,WhatsApp
+1816,63105643,Pequeña,Tecnología,1,0.557,336243,1,Nuevo,120,Instagram
+1353,66809602,Mediana,Salud,1,0.293,524106,4,Nuevo,51,WhatsApp
+1913,75183898,Pequeña,Manufactura,1,0.174,504699,1,Nuevo,72,WhatsApp
+395,126006079,Mediana,Tecnología,7,0.891,1659181,2,Recurrente,77,WhatsApp
+35,67362913,Pequeña,Salud,1,0.186,482636,2,Nuevo,119,Llamada
+904,486548524,Micro,Manufactura,1,0.817,330684,5,Nuevo,40,Llamada
+1297,99064404,Micro,Manufactura,1,0.508,659251,5,Nuevo,74,WhatsApp
+967,119214378,Pequeña,Turismo,1,0.179,346455,5,Nuevo,11,Instagram
+396,427800663,Micro,Salud,2,0.491,1803702,2,Recurrente,51,WhatsApp
+1776,475156331,Micro,Servicios Profesionales,6,0.373,1036354,5,Recurrente,12,WhatsApp
+207,453283505,Pequeña,Turismo,1,0.297,1913618,1,Nuevo,70,Instagram
+1629,130457320,Micro,Tecnología,6,0.083,452628,3,Recurrente,88,WhatsApp
+621,226067164,Pequeña,Educación,1,0.842,1777203,4,Nuevo,15,WhatsApp
+1330,41165990,Mediana,Servicios Profesionales,7,0.047,2601652,1,Recurrente,104,Llamada
+805,414676465,Pequeña,Servicios Profesionales,1,0.877,1556158,4,Nuevo,76,WhatsApp
+462,44637453,Pequeña,Turismo,7,0.633,1706094,4,Recurrente,103,WhatsApp
+1291,498829079,Micro,Tecnología,1,0.364,1350343,5,Nuevo,46,WhatsApp
+867,415045900,Micro,Tecnología,1,0.935,408773,3,Recurrente,55,Instagram
+209,149345856,Pequeña,Tecnología,10,0.186,319861,3,Recurrente,94,WhatsApp
+955,251225163,Pequeña,Tecnología,6,0.208,594991,1,Recurrente,97,Instagram
+1591,44484274,Mediana,Comercio,1,0.167,751335,5,Nuevo,99,WhatsApp
+539,422185129,Pequeña,Salud,1,0.244,2771503,5,Nuevo,74,WhatsApp
+835,321129687,Pequeña,Salud,3,0.468,2665064,1,Recurrente,35,WhatsApp
+514,406301445,Pequeña,Servicios Profesionales,4,0.143,1095358,1,Recurrente,173,WhatsApp
+1938,424631060,Micro,Turismo,1,0.464,1675194,5,Nuevo,160,Llamada
+1998,67822042,Mediana,Comercio,1,0.963,2491317,4,Nuevo,157,WhatsApp
+840,354843181,Pequeña,Construcción,1,0.666,1175894,1,Nuevo,84,WhatsApp
+1666,59440244,Mediana,Turismo,1,0.227,2086677,2,Nuevo,60,WhatsApp
+986,250354083,Micro,Servicios Profesionales,1,0.34,2508159,4,Nuevo,74,WhatsApp
+83,361121872,Pequeña,Servicios Profesionales,1,0.107,2773416,4,Nuevo,83,WhatsApp
+1066,178380208,Micro,Turismo,1,0.426,638843,1,Nuevo,143,Instagram
+156,218825645,Pequeña,Tecnología,1,0.811,177636,1,Nuevo,135,Instagram
+1643,144244261,Pequeña,Servicios Profesionales,1,0.889,764036,3,Nuevo,175,WhatsApp
+1308,117862090,Micro,Tecnología,1,0.148,1448916,5,Nuevo,28,Llamada
+1212,295070795,Pequeña,Servicios Profesionales,1,0.091,1343965,1,Nuevo,173,Instagram
+617,115401518,Pequeña,Construcción,1,0.986,782726,5,Nuevo,168,WhatsApp
+1498,14778091,Micro,Tecnología,1,0.046,1585705,2,Nuevo,179,WhatsApp
+507,126705258,Pequeña,Turismo,3,0.217,686024,5,Recurrente,169,WhatsApp
+1157,93088282,Pequeña,Tecnología,1,0.032,240984,4,Nuevo,40,WhatsApp
+622,268501927,Pequeña,Construcción,11,0.648,530265,4,Recurrente,103,WhatsApp
+1097,271851563,Micro,Educación,1,0.868,1412061,3,Nuevo,150,WhatsApp
+1952,132829084,Micro,Educación,1,0.985,1825246,3,Nuevo,159,WhatsApp
+1460,351364104,Micro,Manufactura,5,0.257,1599904,4,Recurrente,60,Instagram
+293,224521922,Micro,Comercio,1,0.589,1790434,5,Nuevo,145,WhatsApp
+655,490649126,Pequeña,Tecnología,1,0.531,1499462,5,Nuevo,2,WhatsApp
+937,270008028,Micro,Salud,1,0.401,2454607,4,Nuevo,21,Llamada
+1796,243401278,Micro,Tecnología,2,0.947,907624,5,Recurrente,88,WhatsApp
+757,62289300,Micro,Comercio,3,0.008,2326583,2,Recurrente,175,WhatsApp
+1461,333746018,Pequeña,Servicios Profesionales,1,0.381,709012,1,Nuevo,170,WhatsApp
+996,150022068,Micro,Servicios Profesionales,3,0.494,2365323,2,Recurrente,56,WhatsApp
+1876,259001839,Micro,Construcción,1,0.406,1378143,5,Nuevo,108,WhatsApp
+667,73670921,Mediana,Comercio,1,0.06,2025975,1,Nuevo,147,WhatsApp
+1685,472129814,Pequeña,Construcción,1,0.021,215205,2,Nuevo,143,Web
+60,409879270,Micro,Manufactura,1,0.968,2187885,1,Nuevo,1,Instagram
+1622,467856152,Pequeña,Comercio,1,0.129,1934673,5,Nuevo,67,WhatsApp
+327,156495443,Pequeña,Tecnología,1,0.082,1124013,1,Nuevo,6,WhatsApp
+1967,59014350,Micro,Comercio,1,0.257,420652,2,Nuevo,112,Instagram
+799,51016628,Micro,Comercio,2,0.137,2589521,4,Recurrente,75,Instagram
+785,317209769,Micro,Salud,1,0.921,1974598,2,Nuevo,88,Instagram
+767,18672651,Mediana,Turismo,1,0.758,744298,3,Nuevo,157,WhatsApp
+1458,183154641,Micro,Educación,2,0.873,1003919,2,Recurrente,142,WhatsApp
+519,350508283,Micro,Servicios Profesionales,3,0.367,358176,1,Recurrente,34,WhatsApp
+638,442080790,Pequeña,Turismo,1,0.255,1559579,4,Nuevo,121,Web
+83,10302262,Pequeña,Manufactura,1,0.107,2773416,4,Nuevo,83,WhatsApp
+28,380207528,Micro,Construcción,1,0.466,2391487,4,Nuevo,170,WhatsApp
+266,403236508,Micro,Turismo,1,0.861,930480,3,Nuevo,90,Instagram
+1307,208500840,Micro,Comercio,1,0.84,1355967,5,Nuevo,63,WhatsApp
+397,31221411,Micro,Educación,4,0.599,2674983,4,Recurrente,1,WhatsApp
+763,376109350,Micro,Servicios Profesionales,1,0.655,82799,5,Nuevo,143,Instagram
+980,478329625,Pequeña,Educación,1,0.755,2397592,3,Nuevo,168,WhatsApp
+1724,493248062,Grande,Turismo,1,0.454,880623,5,Nuevo,150,Instagram
+1407,308863014,Pequeña,Comercio,1,0.927,969284,1,Nuevo,105,Instagram
+811,315633674,Micro,Servicios Profesionales,1,0.168,1150896,1,Nuevo,137,WhatsApp
+581,307840169,Pequeña,Educación,1,0.853,97219,2,Nuevo,20,WhatsApp
+1862,124714039,Mediana,Turismo,1,0.056,1687791,2,Nuevo,108,WhatsApp
+193,305016529,Pequeña,Construcción,1,0.849,855064,2,Nuevo,168,Instagram
+451,402096730,Micro,Servicios Profesionales,4,0.855,2506525,5,Recurrente,67,WhatsApp
+932,205396176,Micro,Turismo,9,0.373,1132221,2,Recurrente,36,Instagram
+1351,242510896,Micro,Educación,1,0.441,2412104,5,Nuevo,173,WhatsApp
+1629,375556244,Pequeña,Tecnología,6,0.083,452628,3,Recurrente,88,WhatsApp
+655,322319030,Pequeña,Comercio,1,0.531,1499462,5,Nuevo,2,WhatsApp
+1668,286115554,Micro,Servicios Profesionales,1,0.953,2488510,5,Nuevo,140,WhatsApp
+472,240189786,Mediana,Comercio,1,0.37,2842940,2,Nuevo,100,WhatsApp
+1803,71143062,Mediana,Tecnología,1,0.499,523212,1,Nuevo,15,Instagram
+1670,323615199,Pequeña,Construcción,6,0.145,1735559,4,Recurrente,79,WhatsApp
+890,205014352,Micro,Construcción,1,0.293,1212493,5,Nuevo,160,WhatsApp
+179,280310858,Pequeña,Construcción,1,0.764,2571629,3,Nuevo,5,Llamada
+1722,50706368,Micro,Construcción,3,0.845,2591670,3,Recurrente,130,WhatsApp
+1980,461513755,Mediana,Comercio,10,0.486,1275328,5,Recurrente,79,Web
+1042,9322385,Pequeña,Turismo,1,0.018,1108677,5,Nuevo,133,Instagram
+463,230319472,Micro,Salud,1,0.05,2706420,1,Nuevo,73,WhatsApp
+835,401185128,Mediana,Comercio,3,0.468,2665064,1,Recurrente,35,WhatsApp
+609,215294086,Grande,Salud,7,0.864,2040771,2,Recurrente,156,WhatsApp
+926,411331773,Micro,Manufactura,1,0.765,550642,5,Nuevo,117,Instagram
+1427,116564687,Micro,Servicios Profesionales,1,0.296,612980,4,Nuevo,26,WhatsApp
+936,247025580,Grande,Servicios Profesionales,1,0.919,1330475,3,Nuevo,94,WhatsApp
+300,297866476,Grande,Turismo,1,0.315,235525,1,Nuevo,155,WhatsApp
+351,373102463,Pequeña,Salud,5,0.779,2146306,1,Recurrente,66,Llamada
+1371,328463958,Micro,Construcción,1,0.327,133086,3,Nuevo,105,Instagram
+623,304862047,Pequeña,Turismo,2,0.404,2938481,1,Recurrente,178,WhatsApp
+1968,214973353,Mediana,Tecnología,1,0.618,2458161,1,Nuevo,4,WhatsApp
+1351,392099105,Micro,Educación,1,0.441,2412104,5,Nuevo,173,WhatsApp
+1236,124189709,Micro,Salud,8,0.938,1338900,4,Recurrente,130,Instagram
+309,239138870,Pequeña,Salud,1,0.233,2080624,3,Nuevo,72,WhatsApp
+177,435198438,Micro,Construcción,1,0.548,765030,2,Nuevo,63,Llamada
+427,137976728,Micro,Comercio,1,0.113,79251,1,Nuevo,72,WhatsApp
+740,384546939,Micro,Construcción,1,0.404,79418,4,Nuevo,130,Llamada
+531,397502282,Micro,Comercio,1,0.049,534331,4,Nuevo,135,WhatsApp
+1858,194207600,Micro,Tecnología,1,0.184,676551,3,Nuevo,125,WhatsApp
+418,51825358,Pequeña,Construcción,10,0.008,2475132,2,Recurrente,174,Instagram
+209,6318866,Pequeña,Educación,10,0.186,319861,3,Recurrente,94,WhatsApp
+216,169738620,Micro,Educación,1,0.473,1196615,1,Nuevo,37,WhatsApp
+713,274948074,Micro,Servicios Profesionales,5,0.279,2156908,1,Recurrente,86,WhatsApp
+438,439622606,Pequeña,Comercio,1,0.793,1244341,1,Nuevo,161,WhatsApp
+311,369760526,Mediana,Manufactura,1,0.509,625087,2,Nuevo,179,Instagram
+1807,367232316,Micro,Salud,1,0.247,154894,1,Nuevo,40,WhatsApp
+383,497305608,Micro,Comercio,1,0.418,256924,4,Nuevo,65,Llamada
+981,441062212,Pequeña,Salud,1,0.804,1141550,1,Recurrente,67,Instagram
+407,75862660,Micro,Construcción,1,0.959,363625,1,Nuevo,120,Instagram
+66,417447893,Micro,Salud,1,0.878,789270,1,Nuevo,138,WhatsApp
+228,404686577,Micro,Construcción,1,0.67,1348898,2,Nuevo,38,WhatsApp
+882,97643187,Mediana,Manufactura,4,0.136,754960,3,Recurrente,36,Instagram
+137,112403248,Micro,Salud,5,0.851,2470056,2,Recurrente,97,Instagram
+194,421239534,Grande,Turismo,11,0.616,324244,1,Recurrente,132,Instagram
+706,211665069,Micro,Educación,5,0.604,1973099,3,Recurrente,66,Instagram
+658,285416412,Mediana,Servicios Profesionales,1,0.881,1809133,4,Nuevo,97,Web
+657,5206691,Micro,Construcción,1,0.637,1995188,4,Nuevo,116,WhatsApp
+1608,248944083,Micro,Turismo,1,0.333,2387142,4,Nuevo,157,WhatsApp
+1378,61501965,Mediana,Servicios Profesionales,5,0.421,2101763,5,Recurrente,16,Instagram
+930,221394353,Micro,Salud,1,0.352,1676885,2,Nuevo,134,Instagram
+1989,217611303,Micro,Educación,1,0.683,332224,1,Recurrente,20,WhatsApp
+556,22309855,Grande,Comercio,1,0.226,955710,4,Nuevo,140,WhatsApp
+1181,268577943,Micro,Comercio,1,0.17,870007,4,Nuevo,149,Instagram
+958,265455712,Micro,Servicios Profesionales,4,0.468,764588,4,Recurrente,165,Instagram
+1500,463547404,Mediana,Tecnología,1,0.988,1270057,2,Nuevo,65,Llamada
+1040,189658914,Mediana,Tecnología,4,0.283,2934719,3,Recurrente,141,WhatsApp
+1102,476165765,Micro,Construcción,1,0.948,607466,3,Nuevo,123,WhatsApp
+514,145703079,Micro,Turismo,4,0.143,1095358,1,Recurrente,173,WhatsApp
+1528,406992349,Micro,Comercio,1,0.262,2168309,4,Nuevo,42,Llamada
+744,358611621,Mediana,Educación,1,0.345,263699,4,Nuevo,110,WhatsApp
+1085,128707791,Pequeña,Comercio,1,0.908,1019966,4,Nuevo,98,WhatsApp
+1588,170624913,Micro,Comercio,1,0.237,2893749,2,Nuevo,104,WhatsApp
+1833,29156501,Pequeña,Educación,1,0.789,2570651,5,Nuevo,93,Llamada
+692,248213273,Grande,Servicios Profesionales,1,0.388,1561718,3,Nuevo,165,WhatsApp
+543,207606349,Micro,Turismo,4,0.232,1907600,3,Recurrente,156,Llamada
+410,323854071,Mediana,Comercio,1,0.614,566066,4,Nuevo,175,WhatsApp
+155,164536548,Micro,Manufactura,1,0.51,1978337,4,Nuevo,116,Instagram
+633,479515504,Pequeña,Manufactura,1,0.313,1521274,1,Nuevo,63,Instagram
+51,207649805,Micro,Educación,5,0.132,2434703,5,Recurrente,34,WhatsApp
+994,152912497,Micro,Educación,1,0.375,1612570,1,Nuevo,143,Instagram
+1119,235178467,Mediana,Turismo,1,0.977,1297305,2,Nuevo,3,WhatsApp
+1712,378278131,Micro,Servicios Profesionales,1,0.326,941913,3,Nuevo,136,WhatsApp
+1547,495035990,Micro,Tecnología,6,0.576,2533277,1,Recurrente,14,WhatsApp
+524,28306470,Micro,Turismo,3,0.679,1082673,4,Recurrente,124,WhatsApp
+355,69163526,Micro,Servicios Profesionales,1,0.596,414758,1,Nuevo,157,WhatsApp
+802,397176498,Mediana,Construcción,1,0.755,1933071,3,Nuevo,60,Instagram
+1755,346862683,Micro,Tecnología,1,0.972,2982293,3,Nuevo,118,WhatsApp
+840,39821605,Micro,Construcción,1,0.666,1175894,1,Nuevo,84,WhatsApp
+1455,160556115,Grande,Educación,1,0.725,1442878,5,Nuevo,59,Instagram
+790,333346554,Mediana,Construcción,1,0.592,167781,4,Nuevo,129,WhatsApp
+1301,468230070,Micro,Tecnología,1,0.509,238766,4,Nuevo,151,WhatsApp
+1948,412815961,Pequeña,Construcción,1,0.531,2699527,1,Recurrente,41,Llamada
+195,13461714,Mediana,Manufactura,1,0.187,2355129,1,Nuevo,142,Instagram
+1095,488415023,Micro,Servicios Profesionales,1,0.94,1310505,3,Nuevo,140,Instagram
+1359,79559884,Mediana,Manufactura,1,0.186,1588558,1,Nuevo,168,WhatsApp
+1451,6685885,Micro,Educación,1,0.261,141634,4,Nuevo,105,Web
+1223,328623053,Pequeña,Construcción,1,0.552,986834,4,Nuevo,75,Instagram
+76,206884104,Micro,Tecnología,1,0.448,1078512,1,Nuevo,0,Instagram
+787,74132170,Pequeña,Salud,1,0.173,1985204,4,Nuevo,0,Instagram
+795,339524738,Grande,Manufactura,3,0.615,1819147,1,Recurrente,105,Llamada
+1682,287391527,Micro,Turismo,1,0.204,2426255,2,Nuevo,83,Web
+1549,48960587,Mediana,Salud,1,0.188,272274,5,Nuevo,30,Instagram
+1899,409328226,Pequeña,Servicios Profesionales,1,0.809,1573342,5,Nuevo,4,Instagram
+1665,288924966,Micro,Servicios Profesionales,4,0.429,68243,1,Recurrente,16,Instagram
+230,228679341,Pequeña,Turismo,1,0.613,52438,3,Nuevo,118,Instagram
+85,200629734,Pequeña,Turismo,1,0.589,2784711,3,Nuevo,25,Llamada
+1186,488081375,Micro,Tecnología,1,0.343,2377271,5,Nuevo,43,WhatsApp
+397,389761574,Micro,Servicios Profesionales,4,0.599,2674983,4,Recurrente,1,WhatsApp
+1901,291701581,Pequeña,Turismo,10,0.012,935169,1,Recurrente,86,WhatsApp
+1395,450891563,Pequeña,Turismo,4,0.22,84187,1,Recurrente,130,Llamada
+215,185285594,Mediana,Manufactura,1,0.077,2712308,2,Nuevo,82,Instagram
+412,177227776,Micro,Servicios Profesionales,1,0.351,1441819,3,Nuevo,135,Instagram
+1659,78306732,Micro,Educación,1,0.515,751565,4,Nuevo,9,WhatsApp
+1224,259656215,Pequeña,Educación,1,0.105,786626,1,Nuevo,39,Web
+1207,357334838,Micro,Turismo,7,0.909,1976750,3,Recurrente,101,Llamada
+410,337847568,Micro,Salud,1,0.614,566066,4,Nuevo,175,WhatsApp
+1422,312760290,Micro,Servicios Profesionales,5,0.571,1267740,3,Recurrente,84,WhatsApp
+216,168191134,Micro,Comercio,1,0.473,1196615,1,Nuevo,37,WhatsApp
+752,60765225,Mediana,Tecnología,5,0.285,329548,1,Recurrente,117,Llamada
+349,36340447,Grande,Construcción,4,0.97,1700024,2,Recurrente,178,WhatsApp
+1604,87645394,Pequeña,Comercio,1,0.121,449104,5,Nuevo,175,WhatsApp
+831,173552798,Pequeña,Tecnología,1,0.327,2732897,5,Nuevo,14,WhatsApp
+1618,117569510,Pequeña,Tecnología,7,0.257,2141271,5,Recurrente,23,WhatsApp
+654,426074067,Pequeña,Manufactura,1,0.613,2628356,3,Nuevo,89,WhatsApp
+1022,479099970,Pequeña,Servicios Profesionales,9,0.426,1623663,3,Recurrente,34,WhatsApp
+1065,362076565,Micro,Manufactura,1,0.237,1383986,1,Nuevo,78,Instagram
+1775,246881707,Micro,Servicios Profesionales,4,0.559,1054824,5,Recurrente,26,Instagram
+3,268857593,Micro,Salud,1,0.417,1909268,2,Nuevo,15,Web
+1118,458597109,Micro,Construcción,1,0.414,2717083,1,Nuevo,41,Instagram
+740,129011371,Pequeña,Comercio,1,0.404,79418,4,Nuevo,130,Llamada
+407,404373838,Micro,Educación,1,0.959,363625,1,Nuevo,120,Instagram
+18,346636306,Micro,Salud,1,0.245,1822147,2,Nuevo,61,Web
+751,112160094,Micro,Salud,1,0.18,411981,1,Nuevo,3,WhatsApp
+1532,379066969,Mediana,Manufactura,5,0.291,324722,1,Recurrente,162,Instagram
+586,443301124,Pequeña,Servicios Profesionales,9,0.393,1507315,3,Recurrente,81,Llamada
+888,146310648,Mediana,Manufactura,2,0.455,1767038,3,Recurrente,36,Instagram
+332,193567955,Mediana,Salud,1,0.111,1508071,5,Nuevo,26,WhatsApp
+1013,370126650,Mediana,Manufactura,1,0.117,1768002,4,Nuevo,88,Instagram
+169,26666881,Micro,Educación,1,0.323,488701,1,Nuevo,127,Web
+776,296530132,Micro,Servicios Profesionales,1,0.294,2194124,5,Nuevo,93,Llamada
+1696,430472882,Micro,Construcción,1,0.555,2301888,5,Nuevo,100,Instagram
+849,338289275,Micro,Construcción,1,0.372,1878531,4,Nuevo,131,WhatsApp
+941,5279986,Pequeña,Manufactura,1,0.572,1547567,4,Nuevo,18,WhatsApp
+1893,375632155,Mediana,Salud,1,0.762,1756710,5,Nuevo,64,WhatsApp
+1529,363419556,Pequeña,Salud,1,0.329,491588,5,Nuevo,54,Llamada
+1370,20240547,Micro,Manufactura,1,0.168,1978707,4,Nuevo,114,Instagram
+304,459161546,Mediana,Servicios Profesionales,1,0.068,624281,4,Nuevo,104,Instagram
+1119,319931748,Micro,Turismo,1,0.977,1297305,2,Nuevo,3,WhatsApp
+743,254342419,Grande,Comercio,1,0.992,2084328,2,Nuevo,19,WhatsApp
+428,166000927,Micro,Manufactura,1,0.912,1853629,2,Nuevo,51,Instagram
+1722,134241198,Mediana,Tecnología,3,0.845,2591670,3,Recurrente,130,WhatsApp
+450,283940564,Micro,Tecnología,1,0.656,2656242,3,Nuevo,92,Instagram
+786,32954417,Micro,Comercio,7,0.64,2978174,2,Recurrente,81,WhatsApp
+1565,224269999,Mediana,Servicios Profesionales,10,0.581,1635686,3,Recurrente,36,WhatsApp
+715,276033001,Pequeña,Educación,1,0.649,1688388,5,Nuevo,71,WhatsApp
+1102,94100650,Mediana,Tecnología,1,0.948,607466,3,Nuevo,123,WhatsApp
+1348,98603440,Micro,Comercio,1,0.581,726560,3,Nuevo,47,WhatsApp
+743,377561303,Pequeña,Turismo,1,0.992,2084328,2,Nuevo,19,WhatsApp
+1122,153009560,Micro,Construcción,1,0.953,1872821,2,Nuevo,113,Instagram
+1653,194113478,Pequeña,Salud,8,0.216,912865,2,Recurrente,20,Instagram
+110,55044920,Micro,Comercio,1,0.96,1489977,2,Nuevo,39,Instagram
+1512,230494510,Micro,Manufactura,5,0.037,1069198,4,Recurrente,105,Instagram
+1833,330551918,Pequeña,Educación,1,0.789,2570651,5,Nuevo,93,Llamada
+1991,203493030,Mediana,Comercio,1,0.84,2395737,1,Nuevo,106,WhatsApp
+1361,420804621,Pequeña,Construcción,1,0.325,2998093,5,Nuevo,102,Web
+890,130445437,Pequeña,Comercio,1,0.293,1212493,5,Nuevo,160,WhatsApp
+599,91997064,Micro,Turismo,1,0.84,1039035,2,Nuevo,84,Instagram
+1046,128671909,Micro,Salud,7,0.528,1528662,1,Recurrente,176,WhatsApp
+722,207584040,Micro,Manufactura,1,0.941,2869672,4,Nuevo,171,Llamada
+305,425525280,Micro,Manufactura,1,0.013,2192858,1,Nuevo,111,WhatsApp
+924,405802920,Pequeña,Educación,1,0.933,517153,5,Nuevo,151,Instagram
+1514,242514655,Micro,Salud,7,0.917,1085210,1,Recurrente,61,Llamada
+836,438068387,Micro,Tecnología,9,0.233,436804,3,Recurrente,167,WhatsApp
+932,422967919,Mediana,Educación,9,0.373,1132221,2,Recurrente,36,Instagram
+1675,430337402,Micro,Tecnología,1,0.781,387468,1,Nuevo,46,WhatsApp
+1877,480888188,Micro,Comercio,9,0.569,2504497,2,Recurrente,81,WhatsApp
+232,295297757,Micro,Servicios Profesionales,1,0.274,466428,3,Nuevo,135,WhatsApp
+592,333583097,Pequeña,Comercio,8,0.336,416540,3,Recurrente,98,Instagram
+426,98584830,Pequeña,Comercio,1,0.784,647131,1,Nuevo,78,Instagram
+441,71157452,Pequeña,Educación,0,0.324,1497754,1,Recurrente,114,WhatsApp
+34,370597615,Pequeña,Comercio,1,0.388,2710209,5,Nuevo,142,Instagram
+329,311011007,Micro,Comercio,1,0.271,73119,1,Nuevo,82,WhatsApp
+454,330476988,Pequeña,Educación,1,0.537,1647112,1,Nuevo,141,WhatsApp
+1412,49665757,Pequeña,Manufactura,1,0.187,2244204,3,Nuevo,99,Instagram
+764,443309394,Pequeña,Manufactura,1,0.446,1975296,2,Nuevo,88,WhatsApp
+1454,387779510,Micro,Salud,1,0.02,2481087,3,Nuevo,88,Instagram
+1500,431549055,Micro,Educación,1,0.988,1270057,2,Nuevo,65,Llamada
+122,85493067,Micro,Servicios Profesionales,7,0.855,2306726,4,Recurrente,8,Instagram
+581,166431975,Micro,Manufactura,1,0.853,97219,2,Nuevo,20,WhatsApp
+1337,167487831,Micro,Servicios Profesionales,6,0.694,1252453,1,Recurrente,166,WhatsApp
+487,149290186,Micro,Comercio,1,0.451,2517577,2,Nuevo,97,WhatsApp
+1675,73139457,Pequeña,Educación,1,0.781,387468,1,Nuevo,46,WhatsApp
+1036,491016256,Pequeña,Educación,1,0.558,111684,5,Nuevo,153,WhatsApp
+659,226226779,Micro,Turismo,1,0.586,1148425,1,Nuevo,161,WhatsApp
+1101,53379715,Pequeña,Salud,1,0.017,2323083,4,Nuevo,157,WhatsApp
+718,59772474,Mediana,Manufactura,1,0.156,2163685,4,Nuevo,19,WhatsApp
+1260,406278557,Micro,Manufactura,4,0.538,534780,5,Recurrente,149,Web
+1595,393470139,Pequeña,Servicios Profesionales,1,0.376,2900442,5,Nuevo,58,Instagram
+1278,284251910,Pequeña,Comercio,1,0.297,2673643,1,Nuevo,62,WhatsApp
+904,374097595,Micro,Educación,1,0.817,330684,5,Nuevo,40,Llamada
+1267,370577689,Pequeña,Manufactura,1,0.189,1183522,4,Nuevo,128,Instagram
+1485,364592092,Micro,Construcción,1,0.309,849428,3,Nuevo,48,WhatsApp
+1244,200191763,Micro,Turismo,5,0.112,92262,2,Recurrente,24,WhatsApp
+1249,454094093,Micro,Manufactura,1,0.762,693606,2,Nuevo,131,Instagram
+925,228956448,Micro,Servicios Profesionales,1,0.196,2879707,2,Nuevo,130,WhatsApp
+1125,143570436,Pequeña,Salud,1,0.004,676880,5,Nuevo,53,WhatsApp
+854,378599788,Micro,Salud,1,0.657,2785946,2,Nuevo,37,WhatsApp
+1658,104445189,Micro,Servicios Profesionales,1,0.091,69198,1,Nuevo,104,WhatsApp
+1754,369781013,Mediana,Turismo,1,0.591,1939828,3,Nuevo,87,WhatsApp
+507,392015035,Micro,Salud,3,0.217,686024,5,Recurrente,169,WhatsApp
+1611,19766480,Pequeña,Servicios Profesionales,2,0.946,2072130,3,Recurrente,63,WhatsApp
+1355,427105638,Pequeña,Educación,1,0.266,2555426,3,Nuevo,20,WhatsApp
+994,267815515,Micro,Turismo,1,0.375,1612570,1,Nuevo,143,Instagram
+1363,189486900,Pequeña,Tecnología,7,0.717,117703,4,Recurrente,55,WhatsApp
+752,405471425,Micro,Turismo,5,0.285,329548,1,Recurrente,117,Llamada
+165,111880666,Micro,Servicios Profesionales,1,0.428,431598,4,Nuevo,104,Web
+1747,422401734,Mediana,Manufactura,7,0.643,1921031,1,Recurrente,134,Instagram
+1957,453975292,Pequeña,Servicios Profesionales,12,0.876,1584574,4,Recurrente,56,WhatsApp
+1813,350815091,Micro,Tecnología,1,0.122,2207948,1,Nuevo,137,WhatsApp
+728,201173050,Micro,Turismo,5,0.575,381627,5,Recurrente,109,Instagram
+1242,84304623,Micro,Comercio,3,0.382,2889614,2,Recurrente,160,WhatsApp
+376,204798418,Micro,Servicios Profesionales,1,0.741,474502,2,Nuevo,105,Instagram
+1036,236600456,Grande,Salud,1,0.558,111684,5,Nuevo,153,WhatsApp
+83,478964013,Mediana,Manufactura,1,0.107,2773416,4,Nuevo,83,WhatsApp
+431,344905885,Micro,Construcción,1,0.986,1632904,4,Nuevo,18,WhatsApp
+1649,320852742,Pequeña,Educación,2,0.102,2310749,5,Recurrente,1,Instagram
+478,285113921,Pequeña,Construcción,1,0.527,1011731,1,Nuevo,86,WhatsApp
+783,19896912,Micro,Salud,1,0.21,2656804,3,Nuevo,52,WhatsApp
+1731,410112266,Pequeña,Turismo,3,0.12,2938071,3,Recurrente,66,WhatsApp
+369,272686012,Micro,Comercio,1,0.119,1286873,5,Nuevo,107,WhatsApp
+1677,333347851,Grande,Tecnología,1,0.482,293470,2,Nuevo,79,WhatsApp
+955,21050943,Pequeña,Educación,6,0.208,594991,1,Recurrente,97,Instagram
+1651,427086194,Micro,Salud,8,0.538,1142643,3,Recurrente,124,WhatsApp
+1480,354531913,Pequeña,Salud,1,0.084,2133703,5,Nuevo,136,WhatsApp
+1427,89852790,Micro,Turismo,1,0.296,612980,4,Nuevo,26,WhatsApp
+1016,122195593,Micro,Construcción,1,0.388,2195696,5,Nuevo,179,Instagram
+355,329761853,Micro,Salud,1,0.596,414758,1,Nuevo,157,WhatsApp
+343,436591915,Micro,Manufactura,4,0.927,2652493,2,Recurrente,142,WhatsApp
+149,163427708,Micro,Tecnología,1,0.16,1761742,1,Nuevo,99,Instagram
+210,343416608,Micro,Comercio,2,0.111,1308515,3,Recurrente,159,Llamada
+1136,313783050,Micro,Tecnología,4,0.537,1764849,5,Recurrente,124,WhatsApp
+654,302478028,Micro,Tecnología,1,0.613,2628356,3,Nuevo,89,WhatsApp
+976,157540096,Micro,Tecnología,1,0.623,2493488,5,Nuevo,143,WhatsApp
+536,158327454,Micro,Servicios Profesionales,1,0.483,1981430,4,Nuevo,85,Instagram
+1073,428761917,Micro,Manufactura,1,0.323,1688266,1,Nuevo,90,WhatsApp
+1824,55658772,Pequeña,Servicios Profesionales,1,0.947,2494958,5,Nuevo,25,WhatsApp
+11,173633289,Micro,Tecnología,1,0.603,366161,2,Nuevo,45,WhatsApp
+1212,7753583,Pequeña,Manufactura,1,0.091,1343965,1,Nuevo,173,Instagram
+509,219057696,Micro,Manufactura,1,0.979,2098149,1,Nuevo,34,Instagram
+1469,88073256,Micro,Construcción,6,0.476,510287,1,Recurrente,115,Instagram
+622,486168942,Micro,Comercio,11,0.648,530265,4,Recurrente,103,WhatsApp
+901,170478627,Micro,Comercio,1,0.058,438831,4,Nuevo,136,Instagram
+1700,420874030,Pequeña,Salud,4,0.187,456433,2,Recurrente,161,WhatsApp
+1472,17556809,Micro,Tecnología,1,0.018,2333630,1,Nuevo,156,WhatsApp
+718,398033400,Grande,Turismo,1,0.156,2163685,4,Nuevo,19,WhatsApp
+1056,160375183,Micro,Construcción,1,0.973,2847995,4,Nuevo,26,WhatsApp
+327,480977740,Mediana,Comercio,1,0.082,1124013,1,Nuevo,6,WhatsApp
+450,220850809,Pequeña,Tecnología,1,0.656,2656242,3,Nuevo,92,Instagram
+906,275874963,Micro,Turismo,1,0.237,1176859,1,Nuevo,47,Instagram
+355,477708419,Mediana,Manufactura,1,0.596,414758,1,Nuevo,157,WhatsApp
+296,257523093,Pequeña,Turismo,6,0.806,869227,4,Recurrente,71,WhatsApp
+298,265245660,Micro,Educación,6,0.293,1708275,1,Recurrente,82,WhatsApp
+1352,49026511,Pequeña,Comercio,1,0.339,325995,2,Nuevo,43,WhatsApp
+302,21772074,Pequeña,Construcción,2,0.13,1542117,4,Recurrente,106,Instagram
+512,368830846,Pequeña,Tecnología,1,0.214,1681629,5,Nuevo,76,Instagram
+1362,420837614,Micro,Salud,5,0.668,526555,4,Recurrente,133,Instagram
+585,129366378,Mediana,Manufactura,1,0.212,248300,4,Nuevo,45,Instagram
+374,358541526,Grande,Salud,1,0.33,689395,5,Nuevo,161,Instagram
+1577,287469533,Mediana,Construcción,1,0.686,898671,4,Nuevo,88,WhatsApp
+1118,6322168,Pequeña,Tecnología,1,0.414,2717083,1,Nuevo,41,Instagram
+132,467340893,Micro,Comercio,1,0.757,1298756,5,Nuevo,176,Instagram
+1635,275694890,Micro,Comercio,0,0.252,1628143,4,Recurrente,167,WhatsApp
+910,101887618,Mediana,Turismo,4,0.287,2293445,5,Recurrente,24,Web
+1934,100407031,Grande,Salud,1,0.396,2627465,1,Nuevo,72,WhatsApp
+1520,125842224,Micro,Manufactura,1,0.933,2719770,2,Nuevo,34,Instagram
+229,204428812,Mediana,Construcción,1,0.464,300483,5,Nuevo,142,WhatsApp
+640,382268585,Micro,Turismo,1,0.079,2432970,3,Nuevo,169,Instagram
+1236,472521124,Micro,Manufactura,8,0.938,1338900,4,Recurrente,130,Instagram
+797,242251787,Grande,Servicios Profesionales,1,0.836,2777073,5,Nuevo,84,Llamada
+1528,294434071,Mediana,Tecnología,1,0.262,2168309,4,Nuevo,42,Llamada
+495,284554219,Micro,Servicios Profesionales,1,0.36,1337489,5,Nuevo,86,WhatsApp
+671,323019679,Pequeña,Construcción,1,0.811,1860775,3,Nuevo,24,Instagram
+1888,229131745,Pequeña,Turismo,4,0.742,260926,5,Recurrente,12,WhatsApp
+1257,190716514,Micro,Servicios Profesionales,1,0.124,1159897,1,Nuevo,67,Instagram
+1095,431687071,Mediana,Construcción,1,0.94,1310505,3,Nuevo,140,Instagram
+1741,175669361,Mediana,Educación,1,0.476,754875,1,Nuevo,17,WhatsApp
+189,105167312,Micro,Comercio,6,0.549,2928137,3,Recurrente,133,WhatsApp
+332,381122667,Pequeña,Turismo,1,0.111,1508071,5,Nuevo,26,WhatsApp
+1040,272985509,Pequeña,Construcción,4,0.283,2934719,3,Recurrente,141,WhatsApp
+669,379416257,Mediana,Turismo,5,0.13,2705364,2,Recurrente,121,WhatsApp
+1117,104497287,Micro,Tecnología,1,0.54,1615433,4,Nuevo,166,WhatsApp
+1286,70167469,Pequeña,Comercio,1,0.236,2164096,3,Nuevo,161,Instagram
+1573,380911109,Pequeña,Construcción,3,0.334,2332176,4,Recurrente,106,WhatsApp
+161,345328328,Pequeña,Construcción,1,0.793,331253,1,Nuevo,123,WhatsApp
+351,343803840,Grande,Construcción,5,0.779,2146306,1,Recurrente,66,Llamada
+937,82169800,Micro,Servicios Profesionales,1,0.401,2454607,4,Nuevo,21,Llamada
+18,258996941,Pequeña,Construcción,1,0.245,1822147,2,Nuevo,61,Web
+486,355146074,Pequeña,Tecnología,9,0.756,2673403,5,Recurrente,67,WhatsApp
+367,159817160,Grande,Tecnología,1,0.363,2425488,1,Nuevo,70,Llamada
+351,467003363,Micro,Salud,5,0.779,2146306,1,Recurrente,66,Llamada
+872,379786003,Pequeña,Salud,1,0.179,854597,1,Nuevo,159,WhatsApp
+1459,268305678,Micro,Turismo,1,0.297,268400,1,Nuevo,127,WhatsApp
+933,7908003,Pequeña,Turismo,5,0.418,71179,4,Recurrente,6,Llamada
+270,293093826,Grande,Tecnología,2,0.365,2849703,1,Recurrente,23,WhatsApp
+871,103174455,Mediana,Salud,1,0.611,2005340,4,Nuevo,84,WhatsApp
+1054,391292886,Micro,Construcción,1,0.421,126949,5,Nuevo,100,WhatsApp
+164,185139592,Pequeña,Tecnología,1,0.931,399706,2,Nuevo,87,WhatsApp
+926,33521245,Pequeña,Tecnología,1,0.765,550642,5,Nuevo,117,Instagram
+320,8009810,Micro,Turismo,1,0.075,2116128,2,Nuevo,59,WhatsApp
+1038,437814949,Pequeña,Turismo,1,0.17,587889,4,Nuevo,34,WhatsApp
+279,433858434,Micro,Turismo,1,0.106,954711,2,Nuevo,139,WhatsApp
+432,240656241,Micro,Servicios Profesionales,1,0.882,449185,1,Nuevo,26,Llamada
+668,252786287,Pequeña,Construcción,1,0.582,1301590,4,Nuevo,5,WhatsApp
+634,370394145,Pequeña,Construcción,11,0.149,2466551,3,Recurrente,13,Llamada
+1287,155592065,Pequeña,Servicios Profesionales,8,0.935,2346893,2,Recurrente,153,WhatsApp
+1706,210775353,Micro,Comercio,2,0.378,2876844,1,Recurrente,43,WhatsApp
+964,49070761,Micro,Tecnología,5,0.521,1237594,1,Recurrente,75,WhatsApp
+1196,195674399,Pequeña,Educación,1,0.164,2519732,2,Nuevo,129,WhatsApp
+1037,43017506,Pequeña,Comercio,4,0.057,1912334,1,Recurrente,152,Instagram
+725,389404263,Pequeña,Comercio,8,0.24,398492,2,Recurrente,164,Instagram
+232,188754495,Mediana,Servicios Profesionales,1,0.274,466428,3,Nuevo,135,WhatsApp
+1500,151716945,Mediana,Salud,1,0.988,1270057,2,Nuevo,65,Llamada
+471,10617818,Mediana,Tecnología,10,0.397,1346181,4,Recurrente,172,WhatsApp
+1184,349213130,Pequeña,Construcción,1,0.227,2098055,5,Nuevo,126,WhatsApp
+639,419430226,Micro,Educación,1,0.089,1994404,5,Nuevo,6,WhatsApp
+560,391042200,Pequeña,Tecnología,7,0.172,1601815,5,Recurrente,98,Web
+1658,180880760,Pequeña,Tecnología,1,0.091,69198,1,Nuevo,104,WhatsApp
+1383,440908901,Micro,Tecnología,1,0.235,419531,2,Nuevo,3,Instagram
+255,246838724,Pequeña,Turismo,1,0.294,2863927,1,Recurrente,25,Llamada
+1539,117202065,Micro,Educación,7,0.436,2828011,3,Recurrente,27,WhatsApp
+280,350327395,Mediana,Tecnología,5,0.278,1724688,5,Recurrente,92,WhatsApp
+610,104386060,Pequeña,Servicios Profesionales,1,0.321,1753525,5,Nuevo,92,WhatsApp
+1186,398200246,Micro,Turismo,1,0.343,2377271,5,Nuevo,43,WhatsApp
+852,157916732,Pequeña,Salud,4,0.173,844609,5,Recurrente,162,WhatsApp
+298,156948984,Pequeña,Turismo,6,0.293,1708275,1,Recurrente,82,WhatsApp
+916,176959008,Mediana,Comercio,1,0.792,1756135,4,Nuevo,83,WhatsApp
+1618,83233367,Micro,Turismo,7,0.257,2141271,5,Recurrente,23,WhatsApp
+1382,78687266,Pequeña,Construcción,2,0.621,561500,4,Recurrente,166,WhatsApp
+1684,162011229,Mediana,Tecnología,5,0.295,1450063,3,Recurrente,156,Instagram
+518,426766427,Micro,Manufactura,1,0.781,2672760,2,Nuevo,121,WhatsApp
+378,202713588,Micro,Educación,1,0.672,278552,5,Nuevo,14,WhatsApp
+1721,316017394,Mediana,Tecnología,1,0.298,403126,5,Nuevo,99,WhatsApp
+426,159914924,Pequeña,Turismo,1,0.784,647131,1,Nuevo,78,Instagram
+1788,484613062,Micro,Servicios Profesionales,1,0.291,2559007,3,Nuevo,127,Instagram
+537,279142121,Micro,Salud,1,0.332,684198,4,Nuevo,121,WhatsApp
+553,318856290,Pequeña,Salud,1,0.817,2353505,4,Nuevo,112,Instagram
+169,386890422,Micro,Turismo,1,0.323,488701,1,Nuevo,127,Web
+515,94137117,Pequeña,Servicios Profesionales,6,0.101,1958010,5,Recurrente,124,WhatsApp
+430,494168379,Pequeña,Salud,1,0.613,2986204,5,Nuevo,75,Instagram
+569,99127947,Pequeña,Salud,3,0.605,1345944,1,Recurrente,108,Instagram
+83,335292252,Pequeña,Manufactura,1,0.107,2773416,4,Nuevo,83,WhatsApp
+1157,130648338,Micro,Comercio,1,0.032,240984,4,Nuevo,40,WhatsApp
+1622,445129548,Pequeña,Salud,1,0.129,1934673,5,Nuevo,67,WhatsApp
+457,405273961,Grande,Comercio,1,0.774,1488241,5,Nuevo,2,WhatsApp
+1807,167666940,Micro,Salud,1,0.247,154894,1,Nuevo,40,WhatsApp
+344,133547039,Micro,Salud,5,0.091,2455071,3,Recurrente,145,WhatsApp
+1118,297273614,Micro,Servicios Profesionales,1,0.414,2717083,1,Nuevo,41,Instagram
+1892,96188610,Pequeña,Turismo,1,0.629,2588804,5,Nuevo,60,WhatsApp
+1319,247873669,Micro,Comercio,6,0.36,2947016,5,Recurrente,165,WhatsApp
+198,495796764,Micro,Educación,1,0.743,128944,4,Nuevo,131,Instagram
+79,22285586,Pequeña,Educación,1,0.275,1463906,4,Nuevo,32,WhatsApp
+678,432851408,Pequeña,Tecnología,1,0.388,1207122,2,Nuevo,56,WhatsApp
+214,130527514,Mediana,Educación,1,0.996,529367,2,Nuevo,167,WhatsApp
+1667,349924777,Pequeña,Manufactura,1,0.456,2828001,3,Nuevo,90,WhatsApp
+669,74090059,Micro,Tecnología,5,0.13,2705364,2,Recurrente,121,WhatsApp
+989,477567489,Micro,Tecnología,1,0.784,1315462,2,Nuevo,153,Instagram
+894,394722569,Micro,Educación,6,0.414,264514,4,Recurrente,142,WhatsApp
+159,171283903,Pequeña,Educación,1,0.564,1913296,1,Nuevo,12,WhatsApp
+1858,208986132,Micro,Turismo,1,0.184,676551,3,Nuevo,125,WhatsApp
+557,342864160,Micro,Educación,4,0.469,757852,3,Recurrente,114,Instagram
+201,197393087,Pequeña,Servicios Profesionales,1,0.262,2034540,1,Nuevo,163,WhatsApp
+22,169135091,Micro,Construcción,1,0.098,2609909,4,Nuevo,5,WhatsApp
+1363,244411004,Pequeña,Comercio,7,0.717,117703,4,Recurrente,55,WhatsApp
+1765,449938766,Grande,Manufactura,1,0.876,1979333,3,Nuevo,169,Instagram
+1930,419246933,Micro,Salud,1,0.399,841006,5,Nuevo,128,Llamada
+1262,393207960,Micro,Comercio,1,0.543,157535,3,Nuevo,61,WhatsApp
+785,373395161,Micro,Construcción,1,0.921,1974598,2,Nuevo,88,Instagram
+1603,12900180,Pequeña,Comercio,1,0.056,2014760,2,Nuevo,140,WhatsApp
+7,130760232,Grande,Salud,1,0.478,222263,4,Nuevo,61,WhatsApp
+1257,10629414,Pequeña,Comercio,1,0.124,1159897,1,Nuevo,67,Instagram
+1893,143915343,Micro,Tecnología,1,0.762,1756710,5,Nuevo,64,WhatsApp
+804,246710495,Mediana,Construcción,3,0.141,2990639,5,Recurrente,50,Llamada
+768,254787663,Grande,Salud,1,0.321,2597350,1,Nuevo,64,WhatsApp
+579,285489164,Pequeña,Servicios Profesionales,1,0.088,101033,2,Nuevo,137,WhatsApp
+1101,192566751,Mediana,Servicios Profesionales,1,0.017,2323083,4,Nuevo,157,WhatsApp
+489,295185137,Grande,Tecnología,1,0.261,2158312,3,Nuevo,109,Instagram
+926,265554280,Mediana,Educación,1,0.765,550642,5,Nuevo,117,Instagram
+1788,262696767,Pequeña,Manufactura,1,0.291,2559007,3,Nuevo,127,Instagram
+1991,346033111,Pequeña,Manufactura,1,0.84,2395737,1,Nuevo,106,WhatsApp
+222,457550668,Micro,Comercio,1,0.595,2116776,5,Nuevo,21,WhatsApp
+413,67481098,Pequeña,Manufactura,1,0.314,1386608,5,Nuevo,11,Instagram
+1953,456759657,Mediana,Comercio,1,0.096,1963587,4,Nuevo,35,Instagram
+1300,148909112,Pequeña,Salud,1,0.005,272621,3,Nuevo,65,Llamada
+221,393760696,Pequeña,Construcción,1,0.454,1211341,2,Nuevo,54,Instagram
+1205,58079311,Micro,Manufactura,5,0.635,2240157,3,Recurrente,114,Instagram
+1749,155812971,Pequeña,Manufactura,1,0.682,827156,2,Nuevo,129,WhatsApp
+129,5230096,Pequeña,Comercio,1,0.309,2728708,1,Nuevo,125,WhatsApp
+1267,294329624,Mediana,Salud,1,0.189,1183522,4,Nuevo,128,Instagram
+1196,285351352,Pequeña,Manufactura,1,0.164,2519732,2,Nuevo,129,WhatsApp
+1504,356431076,Pequeña,Servicios Profesionales,1,0.267,2712412,3,Nuevo,19,Instagram
+877,92759803,Micro,Turismo,1,0.924,109789,3,Nuevo,137,WhatsApp
+270,9152268,Micro,Salud,2,0.365,2849703,1,Recurrente,23,WhatsApp
+1445,87030615,Mediana,Tecnología,1,0.436,2044083,2,Nuevo,174,WhatsApp
+163,373692965,Micro,Construcción,1,0.647,2113126,5,Nuevo,81,Instagram
+955,58477913,Pequeña,Comercio,6,0.208,594991,1,Recurrente,97,Instagram
+497,247297608,Grande,Turismo,8,0.156,845043,3,Recurrente,48,Instagram
+193,282121661,Pequeña,Construcción,1,0.849,855064,2,Nuevo,168,Instagram
+878,209474300,Pequeña,Turismo,1,0.762,2854414,4,Nuevo,114,WhatsApp
+497,332320091,Pequeña,Educación,8,0.156,845043,3,Recurrente,48,Instagram
+964,127772358,Micro,Comercio,5,0.521,1237594,1,Recurrente,75,WhatsApp
+129,340179733,Mediana,Construcción,1,0.309,2728708,1,Nuevo,125,WhatsApp
+1021,437434303,Micro,Manufactura,1,0.213,2630456,1,Nuevo,120,Llamada
+553,102950813,Micro,Construcción,1,0.817,2353505,4,Nuevo,112,Instagram
+1567,460799204,Pequeña,Tecnología,1,0.843,2602222,2,Nuevo,152,Instagram
+1060,232212559,Pequeña,Servicios Profesionales,1,0.004,1502303,4,Nuevo,111,WhatsApp
+361,130871108,Grande,Salud,3,0.411,864356,1,Recurrente,90,Instagram
+1974,317082483,Micro,Servicios Profesionales,1,0.402,2131935,3,Nuevo,69,WhatsApp
+1901,241324502,Micro,Educación,10,0.012,935169,1,Recurrente,86,WhatsApp
+1239,25859653,Pequeña,Salud,4,0.066,1795160,2,Recurrente,12,WhatsApp
+287,453747939,Mediana,Comercio,1,0.614,1602323,2,Nuevo,98,Llamada
+768,302000888,Pequeña,Construcción,1,0.321,2597350,1,Nuevo,64,WhatsApp
+925,225602272,Pequeña,Manufactura,1,0.196,2879707,2,Nuevo,130,WhatsApp
+369,256766576,Micro,Salud,1,0.119,1286873,5,Nuevo,107,WhatsApp
+1210,313667062,Micro,Comercio,1,0.223,254390,2,Nuevo,0,Instagram
+1498,440954017,Micro,Servicios Profesionales,1,0.046,1585705,2,Nuevo,179,WhatsApp
+1085,351787434,Micro,Tecnología,1,0.908,1019966,4,Nuevo,98,WhatsApp
+262,314708441,Mediana,Educación,1,0.547,2356789,1,Nuevo,16,WhatsApp
+111,17518092,Pequeña,Salud,1,0.329,380453,4,Nuevo,178,WhatsApp
+1853,11577267,Micro,Tecnología,1,0.235,948118,1,Nuevo,155,WhatsApp
+745,31825180,Micro,Tecnología,1,0.411,1311041,3,Nuevo,60,WhatsApp
+535,328612696,Micro,Construcción,1,0.955,2491902,4,Nuevo,100,Instagram
+79,438138094,Micro,Salud,1,0.275,1463906,4,Nuevo,32,WhatsApp
+1540,64337020,Mediana,Turismo,1,0.378,973925,3,Nuevo,2,Instagram
+509,491638205,Micro,Tecnología,1,0.979,2098149,1,Nuevo,34,Instagram
+971,103869035,Pequeña,Salud,1,0.882,1571984,4,Nuevo,48,WhatsApp
+1654,498152613,Micro,Construcción,7,0.803,2960223,4,Recurrente,77,Instagram
+66,168325203,Pequeña,Construcción,1,0.878,789270,1,Nuevo,138,WhatsApp
+1534,114891436,Mediana,Construcción,1,0.391,2018331,3,Nuevo,159,WhatsApp
+1936,458108401,Micro,Comercio,1,0.963,1646254,5,Nuevo,101,Instagram
+1395,41132270,Micro,Turismo,4,0.22,84187,1,Recurrente,130,Llamada
+287,184989038,Micro,Educación,1,0.614,1602323,2,Nuevo,98,Llamada
+1200,153906695,Pequeña,Comercio,1,0.205,1791240,3,Nuevo,6,WhatsApp
+1255,197209334,Micro,Educación,1,0.062,1353511,4,Nuevo,0,Instagram
+555,254638349,Micro,Comercio,4,0.15,1691089,2,Recurrente,123,Instagram
+1726,51218948,Pequeña,Comercio,1,0.497,366256,1,Nuevo,109,WhatsApp
+412,181876564,Micro,Construcción,1,0.351,1441819,3,Nuevo,135,Instagram
+250,51125198,Mediana,Servicios Profesionales,1,0.43,2717874,4,Nuevo,39,WhatsApp
+1680,189174327,Grande,Educación,6,0.154,2058063,4,Recurrente,83,WhatsApp
+1511,70037155,Micro,Servicios Profesionales,2,0.215,927237,1,Recurrente,146,WhatsApp
+1369,343377056,Pequeña,Turismo,1,0.862,563795,2,Nuevo,11,Instagram
+1918,163778832,Pequeña,Educación,7,0.653,1982443,4,Recurrente,62,WhatsApp
+158,99502400,Pequeña,Comercio,1,0.124,2562873,2,Nuevo,39,Instagram
+1601,224649487,Grande,Servicios Profesionales,6,0.656,823205,5,Recurrente,14,WhatsApp
+837,202292908,Mediana,Servicios Profesionales,1,0.589,2782039,3,Nuevo,178,Instagram
+1014,294615697,Mediana,Educación,1,0.85,2210956,1,Nuevo,57,WhatsApp
+1611,119094998,Mediana,Tecnología,2,0.946,2072130,3,Recurrente,63,WhatsApp
+1464,208572976,Pequeña,Salud,1,0.318,1523117,1,Nuevo,28,WhatsApp
+1053,235523961,Pequeña,Construcción,6,0.292,719384,5,Recurrente,35,WhatsApp
+1262,156473005,Pequeña,Construcción,1,0.543,157535,3,Nuevo,61,WhatsApp
+153,158391092,Micro,Servicios Profesionales,1,0.757,666139,5,Nuevo,18,WhatsApp
+749,392816908,Micro,Educación,1,0.917,307470,3,Nuevo,78,WhatsApp
+834,360473459,Grande,Educación,1,0.259,2944978,3,Nuevo,96,Llamada
+1139,473386803,Micro,Servicios Profesionales,1,0.828,2383793,5,Nuevo,91,WhatsApp
+1755,58379885,Micro,Salud,1,0.972,2982293,3,Nuevo,118,WhatsApp
+758,484276906,Pequeña,Tecnología,1,0.539,534023,1,Nuevo,122,Instagram
+1423,127972255,Pequeña,Manufactura,1,0.447,1685543,1,Nuevo,118,Instagram
+1056,469355600,Pequeña,Salud,1,0.973,2847995,4,Nuevo,26,WhatsApp
+532,280561794,Mediana,Manufactura,5,0.887,1493774,4,Recurrente,149,WhatsApp
+718,191138432,Pequeña,Salud,1,0.156,2163685,4,Nuevo,19,WhatsApp
+1755,298160628,Micro,Comercio,1,0.972,2982293,3,Nuevo,118,WhatsApp
+1219,496853956,Pequeña,Tecnología,1,0.206,2819936,5,Nuevo,64,WhatsApp
+1329,298722200,Pequeña,Tecnología,1,0.27,615904,2,Nuevo,82,WhatsApp
+1731,348874220,Micro,Turismo,3,0.12,2938071,3,Recurrente,66,WhatsApp
+1997,466044535,Mediana,Servicios Profesionales,1,0.123,2126379,4,Nuevo,74,Llamada
+345,400374596,Mediana,Salud,1,0.113,2261242,1,Nuevo,131,WhatsApp
+1,87064726,Mediana,Tecnología,1,0.975,699914,3,Nuevo,88,Instagram
+167,154946571,Pequeña,Salud,1,0.977,857449,1,Nuevo,15,Instagram
+1207,46535036,Micro,Turismo,7,0.909,1976750,3,Recurrente,101,Llamada
+965,171009302,Grande,Construcción,3,0.779,1623474,4,Recurrente,114,Instagram
+898,465044751,Pequeña,Construcción,1,0.674,1171861,2,Nuevo,49,Instagram
+1886,309775664,Micro,Salud,1,0.709,1763616,3,Nuevo,45,WhatsApp
+273,59407869,Pequeña,Salud,1,0.988,701631,1,Nuevo,105,WhatsApp
+373,430902142,Pequeña,Salud,1,0.707,2812807,2,Nuevo,65,Llamada
+1386,439570795,Pequeña,Comercio,6,0.879,1263778,4,Recurrente,11,Instagram
+900,380320814,Pequeña,Educación,1,0.559,618323,3,Nuevo,155,Llamada
+201,465513819,Pequeña,Servicios Profesionales,1,0.262,2034540,1,Nuevo,163,WhatsApp
+140,293232656,Micro,Tecnología,1,0.624,1404559,3,Nuevo,86,WhatsApp
+1220,489097864,Micro,Servicios Profesionales,5,0.655,943242,3,Recurrente,36,Instagram
+1085,115797880,Micro,Comercio,1,0.908,1019966,4,Nuevo,98,WhatsApp
+360,276376079,Pequeña,Tecnología,1,0.982,1669177,3,Nuevo,94,WhatsApp
+1504,259381363,Pequeña,Manufactura,1,0.267,2712412,3,Nuevo,19,Instagram
+333,166007166,Micro,Tecnología,1,0.212,1953843,2,Nuevo,140,Instagram
+1890,338733329,Grande,Educación,1,0.251,1475762,2,Nuevo,16,Instagram
+1107,284101068,Micro,Manufactura,1,0.966,2362253,1,Nuevo,38,WhatsApp
+334,211726748,Mediana,Servicios Profesionales,1,0.473,280882,1,Nuevo,126,WhatsApp
+517,199399338,Micro,Tecnología,1,0.573,1044233,3,Nuevo,60,WhatsApp
+731,41593516,Pequeña,Salud,1,0.029,1980917,5,Nuevo,128,Instagram
+924,395091769,Pequeña,Turismo,1,0.933,517153,5,Nuevo,151,Instagram
+766,255875180,Pequeña,Comercio,9,0.836,2449941,3,Recurrente,76,WhatsApp
+1498,493200811,Micro,Salud,1,0.046,1585705,2,Nuevo,179,WhatsApp
+1418,248024941,Micro,Manufactura,1,0.888,2196612,5,Nuevo,143,WhatsApp
+1624,184943500,Micro,Construcción,1,0.558,1172304,4,Nuevo,93,WhatsApp
+1744,209489517,Micro,Tecnología,3,0.644,1281832,4,Recurrente,166,WhatsApp
+785,17682368,Pequeña,Salud,1,0.921,1974598,2,Nuevo,88,Instagram
+1601,69481987,Pequeña,Educación,6,0.656,823205,5,Recurrente,14,WhatsApp
+21,148609431,Micro,Educación,1,0.231,2081172,1,Nuevo,100,Instagram
+1974,238310972,Micro,Turismo,1,0.402,2131935,3,Nuevo,69,WhatsApp
+879,261997101,Micro,Educación,5,0.481,2179343,1,Recurrente,80,Instagram
+177,455081352,Micro,Comercio,1,0.548,765030,2,Nuevo,63,Llamada
+22,335767205,Micro,Construcción,1,0.098,2609909,4,Nuevo,5,WhatsApp
+837,62145186,Mediana,Turismo,1,0.589,2782039,3,Nuevo,178,Instagram
+548,466706297,Pequeña,Turismo,1,0.695,598442,4,Nuevo,175,Web
+250,459840309,Pequeña,Educación,1,0.43,2717874,4,Nuevo,39,WhatsApp
+952,295910068,Micro,Tecnología,1,0.877,1254707,3,Nuevo,88,Instagram
+1097,392304226,Micro,Manufactura,1,0.868,1412061,3,Nuevo,150,WhatsApp
+1115,276677949,Pequeña,Salud,1,0.639,1953839,1,Nuevo,148,WhatsApp
+1200,324254957,Mediana,Manufactura,1,0.205,1791240,3,Nuevo,6,WhatsApp
+126,489273491,Micro,Servicios Profesionales,1,0.749,2405584,2,Nuevo,53,Llamada
+1228,422421889,Pequeña,Construcción,1,0.703,1208178,5,Nuevo,107,WhatsApp
+1938,21997291,Pequeña,Salud,1,0.464,1675194,5,Nuevo,160,Llamada
+1010,497474739,Mediana,Comercio,6,0.553,864110,4,Recurrente,102,Instagram
+44,63280863,Micro,Educación,7,0.925,2899401,2,Recurrente,79,WhatsApp
+1758,402087779,Pequeña,Construcción,7,0.202,1861196,5,Recurrente,132,Instagram
+1965,26159442,Mediana,Educación,1,0.67,950499,1,Nuevo,55,WhatsApp
+548,15204984,Micro,Comercio,1,0.695,598442,4,Nuevo,175,Web
+1192,273616970,Micro,Servicios Profesionales,2,0.17,884175,3,Recurrente,5,Instagram
+435,486975727,Micro,Manufactura,1,0.106,1435387,5,Nuevo,106,Instagram
+1054,152069970,Pequeña,Educación,1,0.421,126949,5,Nuevo,100,WhatsApp
+794,328362130,Pequeña,Construcción,4,0.722,171403,1,Recurrente,116,Web
+357,332589954,Pequeña,Construcción,1,0.561,2836376,3,Nuevo,136,Llamada
+1515,373751606,Pequeña,Manufactura,1,0.459,720659,5,Nuevo,125,Llamada
+1657,96406135,Micro,Salud,7,0.759,537976,1,Recurrente,105,WhatsApp
+1823,343523665,Micro,Manufactura,1,0.22,1408826,2,Nuevo,23,Llamada
+1272,234238128,Micro,Construcción,1,0.387,1907563,3,Nuevo,149,WhatsApp
+1720,421282884,Micro,Comercio,2,0.483,2315634,3,Recurrente,92,Llamada
+253,407398831,Mediana,Salud,1,0.673,2118051,4,Nuevo,68,Instagram
+1981,139410135,Pequeña,Servicios Profesionales,1,0.466,2054803,2,Nuevo,175,WhatsApp
+785,451786509,Micro,Manufactura,1,0.921,1974598,2,Nuevo,88,Instagram
+721,189621682,Pequeña,Turismo,1,0.86,1454038,4,Nuevo,161,WhatsApp
+1890,345534949,Micro,Turismo,1,0.251,1475762,2,Nuevo,16,Instagram
+1658,398932747,Mediana,Turismo,1,0.091,69198,1,Nuevo,104,WhatsApp
+900,422215690,Pequeña,Salud,1,0.559,618323,3,Nuevo,155,Llamada
+1922,397386470,Micro,Salud,1,0.974,1843555,1,Nuevo,108,Instagram
+1318,87275136,Micro,Manufactura,1,0.84,2533946,5,Nuevo,72,WhatsApp
+685,433366927,Micro,Educación,1,0.264,774568,4,Nuevo,14,WhatsApp
+143,363880943,Micro,Comercio,1,0.453,2655018,4,Nuevo,31,Instagram
+938,97007022,Micro,Manufactura,1,0.192,1456101,1,Nuevo,77,Instagram
+511,55986120,Pequeña,Manufactura,1,0.88,2419184,3,Nuevo,72,WhatsApp
+1972,460761779,Micro,Comercio,1,0.643,1019884,5,Nuevo,165,WhatsApp
+57,65354836,Mediana,Manufactura,1,0.954,646196,1,Nuevo,86,Instagram
+1655,478603646,Micro,Educación,1,0.4,446008,5,Nuevo,78,WhatsApp
+1145,179471059,Mediana,Comercio,6,0.645,632927,5,Recurrente,145,WhatsApp
+343,262575084,Pequeña,Educación,4,0.927,2652493,2,Recurrente,142,WhatsApp
+332,259111637,Pequeña,Construcción,1,0.111,1508071,5,Nuevo,26,WhatsApp
+1480,122931852,Pequeña,Manufactura,1,0.084,2133703,5,Nuevo,136,WhatsApp
+1461,241823526,Micro,Comercio,1,0.381,709012,1,Nuevo,170,WhatsApp
+341,348113034,Micro,Comercio,1,0.053,2551194,5,Nuevo,70,WhatsApp
+341,353865233,Pequeña,Manufactura,1,0.053,2551194,5,Nuevo,70,WhatsApp
+1440,415019006,Mediana,Construcción,1,0.833,1290653,4,Nuevo,143,Instagram
+849,307769821,Grande,Educación,1,0.372,1878531,4,Nuevo,131,WhatsApp
+1701,149079072,Micro,Salud,3,0.198,2472480,4,Recurrente,34,WhatsApp
+984,306881003,Micro,Construcción,6,0.114,1012334,3,Recurrente,118,WhatsApp
+1288,399972482,Mediana,Construcción,1,0.955,118947,3,Nuevo,35,WhatsApp
+1234,54156025,Mediana,Turismo,1,0.654,1004192,1,Nuevo,125,WhatsApp
+1242,499450780,Pequeña,Construcción,3,0.382,2889614,2,Recurrente,160,WhatsApp
+751,13271946,Micro,Servicios Profesionales,1,0.18,411981,1,Nuevo,3,WhatsApp
+454,14612019,Pequeña,Educación,1,0.537,1647112,1,Nuevo,141,WhatsApp
+883,77717004,Grande,Servicios Profesionales,1,0.25,923889,3,Nuevo,91,WhatsApp
+1873,361131274,Micro,Salud,1,0.803,2238520,1,Nuevo,99,WhatsApp
+1834,67809765,Micro,Educación,1,0.724,2810330,5,Nuevo,164,Instagram
+293,335621554,Mediana,Construcción,1,0.589,1790434,5,Nuevo,145,WhatsApp
+92,344347864,Pequeña,Tecnología,1,0.96,355056,1,Nuevo,41,WhatsApp
+208,216173582,Mediana,Servicios Profesionales,1,0.427,1774931,2,Nuevo,85,Llamada
+1228,216578100,Pequeña,Servicios Profesionales,1,0.703,1208178,5,Nuevo,107,WhatsApp
+186,169382028,Micro,Manufactura,1,0.627,1636002,4,Nuevo,63,Instagram
+1851,93257184,Pequeña,Manufactura,1,0.277,2653720,5,Nuevo,16,WhatsApp
+1688,11041100,Micro,Tecnología,1,0.01,333878,5,Recurrente,42,Instagram
+156,456239205,Pequeña,Manufactura,1,0.811,177636,1,Nuevo,135,Instagram
+293,89614132,Micro,Manufactura,1,0.589,1790434,5,Nuevo,145,WhatsApp
+161,69626647,Micro,Servicios Profesionales,1,0.793,331253,1,Nuevo,123,WhatsApp
+1410,109621971,Mediana,Tecnología,1,0.306,1309846,4,Nuevo,92,WhatsApp
+1509,268858923,Pequeña,Manufactura,1,0.84,849829,1,Nuevo,108,Web
+851,198255802,Pequeña,Construcción,1,0.137,2313235,1,Nuevo,129,Instagram
+156,174544305,Mediana,Manufactura,1,0.811,177636,1,Nuevo,135,Instagram
+143,181470679,Pequeña,Comercio,1,0.453,2655018,4,Nuevo,31,Instagram
+1643,67069415,Grande,Turismo,1,0.889,764036,3,Nuevo,175,WhatsApp
+1308,13374815,Micro,Comercio,1,0.148,1448916,5,Nuevo,28,Llamada
+562,97576476,Micro,Salud,1,0.99,2854679,5,Nuevo,148,Instagram
+35,88848909,Pequeña,Construcción,1,0.186,482636,2,Nuevo,119,Llamada
+224,148118244,Micro,Salud,1,0.328,1383809,5,Nuevo,104,WhatsApp
+668,369681045,Pequeña,Salud,1,0.582,1301590,4,Nuevo,5,WhatsApp
+393,399067553,Pequeña,Tecnología,1,0.47,2142317,4,Nuevo,156,Llamada
+408,138898330,Pequeña,Salud,1,0.172,127347,3,Nuevo,50,Instagram
+1727,465759515,Micro,Educación,1,0.04,2158551,3,Nuevo,72,Instagram
+1412,51538616,Pequeña,Turismo,1,0.187,2244204,3,Nuevo,99,Instagram
+1720,42455870,Pequeña,Tecnología,2,0.483,2315634,3,Recurrente,92,Llamada
+297,265265147,Mediana,Educación,1,0.162,688100,4,Nuevo,129,Instagram
+1878,284670713,Pequeña,Comercio,1,0.791,2615893,4,Nuevo,137,Instagram
+1512,205199362,Pequeña,Turismo,5,0.037,1069198,4,Recurrente,105,Instagram
+1594,142450005,Pequeña,Turismo,5,0.712,2111057,4,Recurrente,4,WhatsApp
+39,149083641,Micro,Comercio,1,0.484,1501627,5,Nuevo,177,WhatsApp
+1561,187386764,Micro,Salud,1,0.183,563888,1,Nuevo,138,WhatsApp
+1340,404317321,Pequeña,Construcción,1,0.235,2294241,2,Nuevo,63,WhatsApp
+1520,92304574,Mediana,Comercio,1,0.933,2719770,2,Nuevo,34,Instagram
+1141,149821680,Micro,Turismo,1,0.641,2931270,5,Nuevo,135,WhatsApp
+1366,149984440,Grande,Manufactura,1,0.021,1861992,4,Nuevo,100,Llamada
+1906,105063572,Micro,Construcción,6,0.396,77182,4,Recurrente,43,WhatsApp
+240,497246192,Pequeña,Comercio,5,0.601,2990597,2,Recurrente,140,WhatsApp
+687,464561383,Pequeña,Servicios Profesionales,1,0.765,1433714,1,Nuevo,93,WhatsApp
+1469,299606790,Micro,Tecnología,6,0.476,510287,1,Recurrente,115,Instagram
+1876,276173805,Mediana,Tecnología,1,0.406,1378143,5,Nuevo,108,WhatsApp
+740,29314261,Pequeña,Servicios Profesionales,1,0.404,79418,4,Nuevo,130,Llamada
+997,32510865,Micro,Salud,1,0.874,2719875,1,Nuevo,150,Instagram
+487,330234708,Pequeña,Tecnología,1,0.451,2517577,2,Nuevo,97,WhatsApp
+1435,433751857,Grande,Servicios Profesionales,1,0.744,2790701,2,Nuevo,40,Instagram
+1916,361647309,Micro,Turismo,1,0.259,1668773,1,Nuevo,176,WhatsApp
+623,113542281,Micro,Turismo,2,0.404,2938481,1,Recurrente,178,WhatsApp
+736,376484424,Pequeña,Educación,1,0.722,1128642,5,Nuevo,108,WhatsApp
+298,131242193,Pequeña,Turismo,6,0.293,1708275,1,Recurrente,82,WhatsApp
+1076,368526924,Grande,Comercio,1,0.062,1484467,3,Nuevo,42,WhatsApp
+733,200919610,Pequeña,Manufactura,3,0.538,2606481,2,Recurrente,30,Instagram
+1001,262795856,Mediana,Turismo,1,0.271,1617737,3,Nuevo,152,WhatsApp
+304,28827325,Grande,Salud,1,0.068,624281,4,Nuevo,104,Instagram
+1312,146709142,Micro,Turismo,1,0.19,866700,3,Nuevo,82,WhatsApp
+1142,395763791,Micro,Turismo,1,0.954,958478,1,Nuevo,84,Instagram
+1448,468390282,Micro,Turismo,1,0.431,2873762,4,Nuevo,176,Instagram
+647,473379560,Micro,Tecnología,1,0.68,647539,5,Nuevo,126,Instagram
+209,43322022,Micro,Salud,10,0.186,319861,3,Recurrente,94,WhatsApp
+1151,262806844,Micro,Turismo,1,0.407,315121,5,Nuevo,110,WhatsApp
+1317,193022101,Micro,Construcción,5,0.665,498250,1,Recurrente,147,WhatsApp
+519,243129056,Micro,Tecnología,3,0.367,358176,1,Recurrente,34,WhatsApp
+1246,177378728,Mediana,Manufactura,1,0.944,156435,5,Nuevo,87,WhatsApp
+338,197853167,Mediana,Salud,1,0.334,1116777,4,Nuevo,69,Instagram
+1870,474439761,Pequeña,Servicios Profesionales,7,0.568,698423,2,Recurrente,174,WhatsApp
+1874,94283917,Micro,Servicios Profesionales,1,0.879,237461,2,Nuevo,96,WhatsApp
+1763,464080283,Micro,Tecnología,7,0.688,1950214,2,Recurrente,108,Web
+913,494673738,Pequeña,Turismo,1,0.055,1383509,4,Nuevo,85,WhatsApp
+1299,287400919,Mediana,Tecnología,3,0.186,187693,1,Recurrente,61,WhatsApp
+1887,245033980,Grande,Manufactura,1,0.085,731066,3,Nuevo,106,Instagram
+1141,277382162,Micro,Construcción,1,0.641,2931270,5,Nuevo,135,WhatsApp
+1316,7353100,Pequeña,Servicios Profesionales,3,0.313,2806802,5,Recurrente,99,WhatsApp
+1181,158041234,Micro,Salud,1,0.17,870007,4,Nuevo,149,Instagram
+572,361778030,Mediana,Salud,1,0.292,2044719,2,Nuevo,89,WhatsApp
+1208,433147507,Micro,Manufactura,1,0.97,501436,2,Nuevo,81,WhatsApp
+424,284351007,Pequeña,Tecnología,1,0.201,1848806,3,Nuevo,70,WhatsApp
+1680,66557710,Grande,Salud,6,0.154,2058063,4,Recurrente,83,WhatsApp
+1625,372987786,Pequeña,Construcción,6,0.861,2645173,1,Recurrente,123,Instagram
+1040,406196285,Micro,Turismo,4,0.283,2934719,3,Recurrente,141,WhatsApp
+926,343505366,Micro,Turismo,1,0.765,550642,5,Nuevo,117,Instagram
+1785,383551866,Micro,Tecnología,1,0.179,1456854,1,Nuevo,140,WhatsApp
+98,164234884,Pequeña,Servicios Profesionales,1,0.939,2256810,1,Nuevo,62,WhatsApp
+1986,288196343,Pequeña,Servicios Profesionales,1,0.67,1372058,2,Nuevo,132,WhatsApp
+1640,57337237,Pequeña,Comercio,7,0.469,2569494,4,Recurrente,86,WhatsApp
+300,158454761,Pequeña,Turismo,1,0.315,235525,1,Nuevo,155,WhatsApp
+747,315105233,Pequeña,Tecnología,1,0.204,2651740,3,Nuevo,140,WhatsApp
+1331,278896962,Mediana,Manufactura,1,0.432,1545270,1,Nuevo,101,WhatsApp
+1980,51845184,Micro,Salud,10,0.486,1275328,5,Recurrente,79,Web
+261,29710078,Micro,Salud,5,0.628,939515,1,Recurrente,44,WhatsApp
+1263,209532848,Pequeña,Comercio,1,0.099,65063,2,Nuevo,128,WhatsApp
+936,25945710,Mediana,Comercio,1,0.919,1330475,3,Nuevo,94,WhatsApp
+1798,364030564,Micro,Comercio,1,0.226,1379426,2,Nuevo,153,WhatsApp
+332,490599573,Micro,Tecnología,1,0.111,1508071,5,Nuevo,26,WhatsApp
+268,462338642,Micro,Servicios Profesionales,1,0.553,2394539,2,Nuevo,100,WhatsApp
+73,162458258,Micro,Turismo,1,0.623,1545166,2,Nuevo,55,Instagram
+1016,70839828,Micro,Construcción,1,0.388,2195696,5,Nuevo,179,Instagram
+874,274600064,Pequeña,Salud,1,0.468,1153091,2,Nuevo,164,Instagram
+1841,97831881,Micro,Comercio,1,0.081,1613455,5,Nuevo,163,Instagram
+772,341843562,Micro,Educación,1,0.583,2159572,3,Nuevo,161,WhatsApp
+1283,160479522,Mediana,Construcción,1,0.187,1452383,1,Nuevo,88,WhatsApp
+400,205832719,Micro,Salud,1,0.944,1061987,5,Nuevo,125,WhatsApp
+270,284101416,Pequeña,Manufactura,2,0.365,2849703,1,Recurrente,23,WhatsApp
+486,139349188,Pequeña,Manufactura,9,0.756,2673403,5,Recurrente,67,WhatsApp
+1604,224754324,Pequeña,Manufactura,1,0.121,449104,5,Nuevo,175,WhatsApp
+59,18782366,Pequeña,Educación,1,0.914,2431665,2,Nuevo,55,WhatsApp
+887,113114258,Micro,Salud,1,0.984,2685180,3,Nuevo,155,Llamada
+266,482626020,Micro,Comercio,1,0.861,930480,3,Nuevo,90,Instagram
+75,234905140,Micro,Servicios Profesionales,1,0.861,2474519,5,Nuevo,1,Instagram
+357,401027329,Grande,Servicios Profesionales,1,0.561,2836376,3,Nuevo,136,Llamada
+154,118930616,Grande,Servicios Profesionales,2,0.75,760114,5,Recurrente,100,WhatsApp
+1924,67228414,Pequeña,Salud,1,0.599,2909146,4,Nuevo,44,Instagram
+1242,181908678,Grande,Servicios Profesionales,3,0.382,2889614,2,Recurrente,160,WhatsApp
+486,8258848,Grande,Construcción,9,0.756,2673403,5,Recurrente,67,WhatsApp
+1564,353728116,Mediana,Tecnología,8,0.658,1488448,2,Recurrente,130,WhatsApp
+66,68303401,Micro,Turismo,1,0.878,789270,1,Nuevo,138,WhatsApp
+1168,123940421,Pequeña,Construcción,3,0.915,2815583,3,Recurrente,104,Web
+380,341324486,Micro,Comercio,1,0.488,2234665,1,Nuevo,14,Instagram
+1337,332133355,Mediana,Comercio,6,0.694,1252453,1,Recurrente,166,WhatsApp
+407,329804625,Micro,Manufactura,1,0.959,363625,1,Nuevo,120,Instagram
+1997,104390773,Micro,Manufactura,1,0.123,2126379,4,Nuevo,74,Llamada
+615,363730450,Pequeña,Salud,1,0.433,137919,5,Nuevo,173,WhatsApp
+314,144580222,Micro,Construcción,1,0.635,2506675,2,Nuevo,142,WhatsApp
+549,294885379,Pequeña,Construcción,1,0.308,1131458,2,Nuevo,82,Instagram
+1969,70625484,Pequeña,Construcción,1,0.46,1004321,4,Nuevo,111,WhatsApp
+461,254185951,Micro,Comercio,1,0.337,2051812,4,Nuevo,17,WhatsApp
+1692,389484914,Micro,Servicios Profesionales,1,0.92,2661649,5,Nuevo,66,WhatsApp
+451,282623201,Pequeña,Servicios Profesionales,4,0.855,2506525,5,Recurrente,67,WhatsApp
+471,239252571,Micro,Turismo,10,0.397,1346181,4,Recurrente,172,WhatsApp
+1668,86580616,Micro,Construcción,1,0.953,2488510,5,Nuevo,140,WhatsApp
+1583,398532756,Micro,Tecnología,1,0.094,980522,1,Nuevo,61,WhatsApp
+1458,323351981,Pequeña,Construcción,2,0.873,1003919,2,Recurrente,142,WhatsApp
+1470,299635740,Pequeña,Tecnología,1,0.853,2293156,4,Nuevo,174,WhatsApp
+103,232325836,Micro,Tecnología,1,0.774,1397962,2,Nuevo,41,WhatsApp
+328,474851217,Micro,Construcción,4,0.55,546221,5,Recurrente,125,WhatsApp
+601,494692453,Micro,Educación,1,0.017,1242568,2,Nuevo,95,Instagram
+246,301905078,Mediana,Servicios Profesionales,1,0.028,2553473,3,Nuevo,51,WhatsApp
+1082,150247646,Pequeña,Comercio,1,0.093,916555,3,Nuevo,93,Llamada
+105,248807330,Pequeña,Manufactura,6,0.928,157966,5,Recurrente,109,Instagram
+692,439198185,Micro,Servicios Profesionales,1,0.388,1561718,3,Nuevo,165,WhatsApp
+972,141334013,Micro,Construcción,1,0.371,285612,5,Nuevo,177,WhatsApp
+1093,296331689,Micro,Turismo,3,0.11,1983606,1,Recurrente,35,Llamada
+993,75015807,Pequeña,Tecnología,1,0.978,2146109,4,Nuevo,65,WhatsApp
+153,88389192,Micro,Salud,1,0.757,666139,5,Nuevo,18,WhatsApp
+1561,367841469,Pequeña,Servicios Profesionales,1,0.183,563888,1,Nuevo,138,WhatsApp
+1913,144454302,Grande,Manufactura,1,0.174,504699,1,Nuevo,72,WhatsApp
+1059,324826859,Micro,Servicios Profesionales,4,0.998,802932,5,Recurrente,65,Llamada
+1039,304037118,Micro,Construcción,5,0.285,1747458,2,Recurrente,163,WhatsApp
+1130,113038823,Pequeña,Tecnología,1,0.305,1617938,1,Nuevo,41,WhatsApp
+730,381707415,Micro,Comercio,1,0.49,480898,2,Nuevo,37,WhatsApp
+856,411415665,Micro,Turismo,1,0.373,2732791,5,Nuevo,142,WhatsApp
+1955,229073875,Micro,Tecnología,1,0.869,1315988,4,Nuevo,21,Instagram
+285,231454352,Micro,Manufactura,1,0.714,338715,2,Nuevo,36,Web
+1574,19971611,Micro,Manufactura,1,0.471,2169918,2,Nuevo,112,WhatsApp
+1221,288838917,Micro,Comercio,1,0.043,2257107,5,Nuevo,111,Instagram
+280,447614697,Pequeña,Comercio,5,0.278,1724688,5,Recurrente,92,WhatsApp
+787,338293600,Pequeña,Comercio,1,0.173,1985204,4,Nuevo,0,Instagram
+686,340546075,Micro,Salud,2,0.209,703420,5,Recurrente,87,WhatsApp
+1841,493240628,Pequeña,Construcción,1,0.081,1613455,5,Nuevo,163,Instagram
+1580,424073342,Micro,Turismo,1,0.695,1155340,4,Nuevo,46,Instagram
+1690,492015616,Mediana,Servicios Profesionales,2,0.235,2533734,5,Recurrente,157,WhatsApp
+1177,209898152,Mediana,Salud,4,0.654,2779085,2,Recurrente,18,WhatsApp
+291,130158579,Micro,Salud,1,0.233,1462482,1,Nuevo,1,WhatsApp
+932,478106274,Pequeña,Servicios Profesionales,9,0.373,1132221,2,Recurrente,36,Instagram
+1166,478770967,Pequeña,Tecnología,1,0.61,1878016,3,Nuevo,164,WhatsApp
+768,301334853,Micro,Educación,1,0.321,2597350,1,Nuevo,64,WhatsApp
+312,221424838,Pequeña,Servicios Profesionales,10,0.992,2791026,4,Recurrente,89,WhatsApp
+646,105146696,Mediana,Construcción,1,0.606,1791951,1,Nuevo,159,WhatsApp
+1056,310895780,Micro,Tecnología,1,0.973,2847995,4,Nuevo,26,WhatsApp
+26,442971407,Pequeña,Servicios Profesionales,1,0.004,2305060,1,Nuevo,3,Llamada
+1935,404403937,Pequeña,Comercio,1,0.625,336881,2,Nuevo,162,WhatsApp
+255,100346786,Micro,Servicios Profesionales,1,0.294,2863927,1,Recurrente,25,Llamada
+1969,153523155,Micro,Turismo,1,0.46,1004321,4,Nuevo,111,WhatsApp
+1080,198082070,Micro,Salud,1,0.184,2895929,1,Nuevo,107,WhatsApp
+293,71108731,Micro,Tecnología,1,0.589,1790434,5,Nuevo,145,WhatsApp
+637,45018921,Micro,Construcción,1,0.721,2605298,2,Nuevo,155,WhatsApp
+230,484124661,Micro,Manufactura,1,0.613,52438,3,Nuevo,118,Instagram
+101,96786797,Micro,Construcción,1,0.08,762923,2,Nuevo,98,WhatsApp
+1870,387146563,Micro,Manufactura,7,0.568,698423,2,Recurrente,174,WhatsApp
+804,333579849,Micro,Servicios Profesionales,3,0.141,2990639,5,Recurrente,50,Llamada
+869,112198570,Micro,Tecnología,8,0.359,1959692,5,Recurrente,75,WhatsApp
+267,393151370,Pequeña,Servicios Profesionales,1,0.753,1306324,5,Nuevo,105,WhatsApp
+1819,275533671,Micro,Tecnología,1,0.085,824079,4,Nuevo,43,Instagram
+22,126612982,Pequeña,Salud,1,0.098,2609909,4,Nuevo,5,WhatsApp
+212,415069064,Pequeña,Tecnología,1,0.268,2331892,1,Nuevo,169,WhatsApp
+1260,273329511,Mediana,Comercio,4,0.538,534780,5,Recurrente,149,Web
+1904,349100043,Micro,Construcción,1,0.798,631890,1,Nuevo,68,WhatsApp
+519,276035534,Mediana,Educación,3,0.367,358176,1,Recurrente,34,WhatsApp
+1246,380074267,Mediana,Salud,1,0.944,156435,5,Nuevo,87,WhatsApp
+1936,72103603,Pequeña,Manufactura,1,0.963,1646254,5,Nuevo,101,Instagram
+616,387341093,Pequeña,Comercio,2,0.468,1211619,3,Recurrente,60,WhatsApp
+403,99237863,Pequeña,Turismo,1,0.626,654730,5,Nuevo,179,WhatsApp
+287,85362740,Micro,Manufactura,1,0.614,1602323,2,Nuevo,98,Llamada
+384,170689620,Grande,Construcción,1,0.292,891688,2,Nuevo,173,WhatsApp
+1924,243590210,Pequeña,Salud,1,0.599,2909146,4,Nuevo,44,Instagram
+1115,386857837,Micro,Comercio,1,0.639,1953839,1,Nuevo,148,WhatsApp
+312,104259214,Pequeña,Educación,10,0.992,2791026,4,Recurrente,89,WhatsApp
+1461,374576830,Micro,Turismo,1,0.381,709012,1,Nuevo,170,WhatsApp
+726,272246828,Grande,Educación,1,0.359,2073001,5,Nuevo,162,Llamada
+43,425332596,Micro,Construcción,1,0.86,2631517,5,Nuevo,173,WhatsApp
+1098,54423507,Micro,Construcción,1,0.366,544285,2,Nuevo,12,WhatsApp
+993,271120281,Micro,Tecnología,1,0.978,2146109,4,Nuevo,65,WhatsApp
+1585,447573032,Micro,Construcción,1,0.992,2984374,5,Nuevo,2,WhatsApp
+1904,430733846,Pequeña,Comercio,1,0.798,631890,1,Nuevo,68,WhatsApp
+876,288058032,Pequeña,Educación,6,0.178,1806463,4,Recurrente,10,Instagram
+1340,429767538,Micro,Comercio,1,0.235,2294241,2,Nuevo,63,WhatsApp
+734,272514520,Micro,Salud,5,0.719,99574,5,Recurrente,35,WhatsApp
+1886,468974211,Mediana,Servicios Profesionales,1,0.709,1763616,3,Nuevo,45,WhatsApp
+144,449903027,Pequeña,Comercio,1,0.726,2681062,3,Nuevo,100,Instagram
+1353,196397257,Micro,Tecnología,1,0.293,524106,4,Nuevo,51,WhatsApp
+209,244090901,Pequeña,Comercio,10,0.186,319861,3,Recurrente,94,WhatsApp
+1123,271748354,Pequeña,Salud,1,0.675,678292,1,Nuevo,128,WhatsApp
+700,231501970,Pequeña,Servicios Profesionales,1,0.277,1965883,5,Nuevo,44,WhatsApp
+114,340774046,Mediana,Salud,2,0.211,1839290,2,Recurrente,117,WhatsApp
+175,272348616,Micro,Educación,1,0.875,2425579,3,Nuevo,123,Web
+271,269086812,Micro,Construcción,1,0.879,963457,5,Nuevo,72,WhatsApp
+63,242735844,Micro,Turismo,1,0.196,2803101,4,Nuevo,165,Instagram
+796,87006598,Micro,Servicios Profesionales,1,0.151,599634,1,Nuevo,131,WhatsApp
+225,200744293,Pequeña,Servicios Profesionales,6,0.923,499158,4,Recurrente,174,WhatsApp
+1983,390888983,Pequeña,Tecnología,1,0.103,1324456,2,Nuevo,110,Instagram
+161,163208638,Micro,Manufactura,1,0.793,331253,1,Nuevo,123,WhatsApp
+1060,243924359,Micro,Comercio,1,0.004,1502303,4,Nuevo,111,WhatsApp
+1677,111611128,Micro,Manufactura,1,0.482,293470,2,Nuevo,79,WhatsApp
+318,21362969,Micro,Construcción,1,0.102,2812660,2,Nuevo,154,Llamada
+708,288190715,Pequeña,Construcción,5,0.866,1336479,1,Recurrente,100,Instagram
+1687,220340827,Mediana,Educación,1,0.17,1149726,5,Nuevo,174,Llamada
+456,384535771,Pequeña,Construcción,1,0.811,748050,5,Nuevo,40,WhatsApp
+1293,83545709,Pequeña,Comercio,1,0.569,238996,3,Nuevo,147,WhatsApp
+344,203865141,Pequeña,Salud,5,0.091,2455071,3,Recurrente,145,WhatsApp
+1774,132092418,Micro,Tecnología,1,0.972,193954,5,Nuevo,137,WhatsApp
+1246,27300598,Grande,Manufactura,1,0.944,156435,5,Nuevo,87,WhatsApp
+225,135005108,Micro,Comercio,6,0.923,499158,4,Recurrente,174,WhatsApp
+280,217332894,Pequeña,Construcción,5,0.278,1724688,5,Recurrente,92,WhatsApp
+1780,353424680,Micro,Turismo,5,0.941,265363,1,Recurrente,130,WhatsApp
+621,437297628,Grande,Servicios Profesionales,1,0.842,1777203,4,Nuevo,15,WhatsApp
+975,85289898,Pequeña,Comercio,1,0.435,2853810,1,Nuevo,2,WhatsApp
+489,328530553,Micro,Educación,1,0.261,2158312,3,Nuevo,109,Instagram
+1969,205547985,Micro,Comercio,1,0.46,1004321,4,Nuevo,111,WhatsApp
+937,185976134,Pequeña,Manufactura,1,0.401,2454607,4,Nuevo,21,Llamada
+1300,17439392,Mediana,Turismo,1,0.005,272621,3,Nuevo,65,Llamada
+1196,146484989,Pequeña,Turismo,1,0.164,2519732,2,Nuevo,129,WhatsApp
+784,36873836,Pequeña,Servicios Profesionales,1,0.521,1424340,1,Nuevo,48,WhatsApp
+508,481096831,Mediana,Tecnología,1,0.971,645067,4,Nuevo,54,WhatsApp
+1725,141705691,Micro,Tecnología,1,0.408,299526,5,Nuevo,121,Llamada
+772,253249227,Micro,Educación,1,0.583,2159572,3,Nuevo,161,WhatsApp
+131,240420634,Mediana,Construcción,1,0.339,1128181,1,Nuevo,164,Instagram
+1409,319977207,Micro,Manufactura,1,0.513,1865385,2,Nuevo,104,Instagram
+1758,27974681,Micro,Turismo,7,0.202,1861196,5,Recurrente,132,Instagram
+1590,307837945,Micro,Salud,4,0.856,552704,1,Recurrente,159,WhatsApp
+1874,468449468,Pequeña,Tecnología,1,0.879,237461,2,Nuevo,96,WhatsApp
+1320,300229648,Pequeña,Construcción,1,0.427,1689922,4,Nuevo,130,WhatsApp
+1407,369817970,Mediana,Servicios Profesionales,1,0.927,969284,1,Nuevo,105,Instagram
+1536,454626199,Micro,Educación,1,0.335,1529221,1,Nuevo,94,WhatsApp
+1629,198304711,Pequeña,Manufactura,6,0.083,452628,3,Recurrente,88,WhatsApp
+1284,424416221,Micro,Manufactura,1,0.504,1490564,3,Nuevo,126,WhatsApp
+1380,158881495,Mediana,Manufactura,1,0.772,2901871,4,Nuevo,109,WhatsApp
+637,378186779,Micro,Servicios Profesionales,1,0.721,2605298,2,Nuevo,155,WhatsApp
+1452,100872458,Pequeña,Comercio,6,0.868,159119,4,Recurrente,66,WhatsApp
+348,354839681,Micro,Tecnología,3,0.209,2606471,2,Recurrente,121,Instagram
+429,390682098,Grande,Comercio,1,0.195,1021388,1,Nuevo,170,WhatsApp
+1416,466706056,Pequeña,Turismo,1,0.198,737246,2,Recurrente,145,WhatsApp
+1071,299192672,Micro,Comercio,7,0.926,1725209,1,Recurrente,127,Instagram
+750,318458381,Pequeña,Servicios Profesionales,1,0.395,1998031,1,Nuevo,30,Instagram
+637,447442080,Micro,Construcción,1,0.721,2605298,2,Nuevo,155,WhatsApp
+879,129216324,Mediana,Manufactura,5,0.481,2179343,1,Recurrente,80,Instagram
+1352,271639741,Micro,Salud,1,0.339,325995,2,Nuevo,43,WhatsApp
+515,406284863,Micro,Construcción,6,0.101,1958010,5,Recurrente,124,WhatsApp
+1189,406535450,Micro,Tecnología,1,0.401,1628894,5,Nuevo,78,WhatsApp
+861,188559071,Pequeña,Tecnología,6,0.621,2687051,1,Recurrente,168,Instagram
+916,144091290,Micro,Construcción,1,0.792,1756135,4,Nuevo,83,WhatsApp
+451,480814809,Micro,Construcción,4,0.855,2506525,5,Recurrente,67,WhatsApp
+1367,483185964,Pequeña,Salud,7,0.739,354280,4,Recurrente,179,WhatsApp
+341,483629611,Micro,Salud,1,0.053,2551194,5,Nuevo,70,WhatsApp
+1485,321006894,Micro,Tecnología,1,0.309,849428,3,Nuevo,48,WhatsApp
+1416,362359447,Micro,Construcción,1,0.198,737246,2,Recurrente,145,WhatsApp
+1925,329166504,Pequeña,Turismo,1,0.242,1586949,1,Nuevo,107,WhatsApp
+1561,182097980,Micro,Manufactura,1,0.183,563888,1,Nuevo,138,WhatsApp
+1575,215584181,Micro,Educación,7,0.027,464429,1,Recurrente,151,Web
+5,407087677,Micro,Manufactura,5,0.756,1160428,4,Recurrente,121,WhatsApp
+1028,352562790,Mediana,Comercio,4,0.632,1190043,3,Recurrente,162,WhatsApp
